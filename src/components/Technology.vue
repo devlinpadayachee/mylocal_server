@@ -1,0 +1,148 @@
+<template>
+  <!--Technologies-->
+  <section class="section">
+    <div class="container-fluid center-text">
+      <div class="row justify-content-md-center mt-3">
+        <div class="col-lg-12 text-center">
+          <h1 class="text-primary">The Technologies We Use</h1>
+        </div>
+      </div>
+    </div>
+    <div class="container-fluid center-text">
+      <div class="row justify-content-md-center mt-3">
+        <div class="card-deck">
+
+          <div class="card wow fadeInUp hoverable p-3" data-wow-delay="0.5s">
+            <div class="feature">
+              <div class = "technology-card text-center">
+                <i class="devicon-meteor-plain colored"></i>
+                <h4 class = "mt-1">Meteor.js</h4>
+                <p>
+                  Meteor is a complete platform for building web and mobile apps in pure JavaScript.
+                </p>
+              </div>
+            </div>
+          </div>
+
+          <div class="card wow fadeInUp hoverable p-3" data-wow-delay="0.6s">
+            <div class="feature">
+              <div class = "technology-card text-center">
+                <i class="devicon-vuejs-plain colored"></i>
+                <h4 class = "mt-1">Vue.js</h4>
+                <p>
+                  A progressive, incrementally-adoptable JavaScript framework for building UI on the web.
+                </p>
+              </div>
+            </div>
+          </div>
+
+          <div class="card wow fadeInUp hoverable p-3" data-wow-delay="0.7s">
+            <div class="feature">
+              <div class = "technology-card text-center">
+                <i class="devicon-git-plain colored"></i>
+                <h4 class = "mt-1">Git</h4>
+                <p>
+                  Git is a distributed version control system designed to handle everything from small to very large projects with speed and efficiency.
+                </p>
+              </div>
+            </div>
+          </div>
+
+          <div class="card wow fadeInUp hoverable p-3" data-wow-delay="0.8s">
+            <div class="feature">
+              <div class = "technology-card text-center">
+                <i class="devicon-nodejs-plain colored"></i>
+                <h4 class = "mt-1">Node.js</h4>
+                <p>
+                  Node.js is a JavaScript runtime built on Chromes V8 JavaScript engine. It uses an event-driven, non-blocking i/O.
+                </p>
+              </div>
+            </div>
+          </div>
+
+        </div>
+      </div>
+      <div class="clearfix"></div>
+      <div class="row justify-content-md-center mt-3">
+        <div class="card-deck">
+
+          <div class="card wow fadeInUp hoverable p-3" data-wow-delay="1.2s">
+            <div class="feature">
+              <div class = "technology-card text-center">
+                <i class="devicon-mysql-plain"></i>
+                <h4 class = "mt-1">MySQL</h4>
+                <p>
+                  MySQL is an open-source relational database management system (RDBMS).
+                </p>
+              </div>
+            </div>
+          </div>
+
+          <div class="card wow fadeInUp hoverable p-3" data-wow-delay="1.1s">
+            <div class="feature">
+              <div class = "technology-card text-center">
+                <i class="devicon-bootstrap-plain colored"></i>
+                <h4 class = "mt-1">Bootstrap</h4>
+                <p>
+                  Bootstrap is the most popular HTML, CSS, and JS framework for developing responsive, mobile first projects on the web.
+                </p>
+              </div>
+            </div>
+          </div>
+          
+          <div class="card wow fadeInUp hoverable p-3" data-wow-delay="1s">
+            <div class="feature">
+              <div class = "technology-card text-center">
+                <i class="devicon-html5-plain"></i>
+                <h4 class = "mt-1">HTML 5</h4>
+                <p>
+                  HTML5 is a markup language used for structuring and presenting content on the Internet. It is the fifth and current version of the HTML standard.
+                </p>
+              </div>
+            </div>
+          </div>
+
+          <div class="card hoverable p-3 wow fadeInUp" data-wow-delay="0.9s">
+            <div class="feature">
+              <div class = "technology-card text-center">
+                <i class="devicon-angularjs-plain colored"></i>
+                <h4 class = "mt-1">Angular.js</h4>
+                <p>
+                  AngularJS lets you write client-side web applications as if you had a smarter browser. It lets you use good old HTML.
+                </p>
+              </div>
+            </div>
+          </div>
+
+        </div>
+      </div>
+    </div>
+    <div class="clearfix"></div>
+    <div class="container-fluid center-text">
+      <div class="row justify-content-md-center mt-3">
+        <div class="col-lg-12 text-center">
+          <a href="#contactus" class="btn btn-elegant btn-lg page-scroll">Learn More</a>
+        </div>
+      </div>
+    </div>
+    <div class="clearfix"></div>
+  </section>
+  <!--End Technologies-->
+</template>
+
+<script>
+export default {
+  name: 'technology',
+  data () {
+    return {
+      msg: 'Technology Page'
+    }
+  }
+}
+</script>
+
+<!-- Add "scoped" attribute to limit CSS to this component only -->
+<style scoped>
+
+
+</style>
