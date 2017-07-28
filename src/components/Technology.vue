@@ -11,7 +11,7 @@
     <div class="container-fluid center-text">
       <div class="row justify-content-md-center mt-3">
         <div class="card-deck">
-
+          
           <div class="card wow fadeInUp hoverable p-3" data-wow-delay="0.5s">
             <div class="feature">
               <div class = "technology-card text-center">
@@ -89,7 +89,7 @@
               </div>
             </div>
           </div>
-          
+
           <div class="card wow fadeInUp hoverable p-3" data-wow-delay="1s">
             <div class="feature">
               <div class = "technology-card text-center">

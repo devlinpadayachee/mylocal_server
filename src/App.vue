@@ -34,11 +34,11 @@
     <!--Carousel Wrapper-->
     <div id="video-carousel-example2" class="carousel slide carousel-fade" data-ride="carousel">
         <!--Indicators-->
-        <ol class="carousel-indicators">
+        <!-- <ol class="carousel-indicators">
             <li data-target="#video-carousel-example2" data-slide-to="0" class="active"></li>
             <li data-target="#video-carousel-example2" data-slide-to="1"></li>
             <li data-target="#video-carousel-example2" data-slide-to="2"></li>
-        </ol>
+        </ol> -->
         <!--/.Indicators-->
 
         <!--Slides-->
@@ -60,13 +60,13 @@
                     <div class="flex-center animated fadeIn">
                         <ul>
                             <li>
-                                <h1 class="h1-responsive">Material Design for Bootstrap 4</h1></li>
+                                <h1 class="h1-responsive font-weight-bold">Division By Zero</h1></li>
                             <li>
-                                <p>The most powerful and free UI KIT for Bootstrap</p>
+                                <h2 class = "text-primary ">Web Apps, Scripts, APIs and Backend Development for your Startup or Business</h2>
                             </li>
                             <li>
-                                <a target="_blank" href="http://mdbootstrap.com/getting-started/" class="btn btn-primary btn-lg" rel="nofollow">Sign up!</a>
-                                <a target="_blank" href="http://mdbootstrap.com/material-design-for-bootstrap/" class="btn btn-default btn-lg" rel="nofollow">Learn more</a>
+                                <a target="_blank" href="http://mdbootstrap.com/getting-started/" class="btn btn-primary btn-lg" rel="nofollow">GET A QUOTE</a>
+                                <a target="_blank" href="http://mdbootstrap.com/material-design-for-bootstrap/" class="btn btn-default btn-lg" rel="nofollow">LEARN MORE</a>
                             </li>
                         </ul>
                     </div>
@@ -79,21 +79,21 @@
         <!--/.Slides-->
 
         <!--Controls-->
-        <a class="carousel-control-prev" href="#video-carousel-example2" role="button" data-slide="prev">
+        <!-- <a class="carousel-control-prev" href="#video-carousel-example2" role="button" data-slide="prev">
             <span class="carousel-control-prev-icon" aria-hidden="true"></span>
             <span class="sr-only">Previous</span>
         </a>
         <a class="carousel-control-next" href="#video-carousel-example2" role="button" data-slide="next">
             <span class="carousel-control-next-icon" aria-hidden="true"></span>
             <span class="sr-only">Next</span>
-        </a>
+        </a> -->
         <!--/.Controls-->
     </div>
     <!--/.Carousel Wrapper-->
     <!-- Purple Header -->
 
 
-
+    <about class="col-md-9 col-lg-9 mx-auto float-none white"></about>
     <technology class="col-md-9 col-lg-9 mx-auto float-none white"></technology>
     <team class="col-md-9 col-lg-9 mx-auto float-none white"></team>
     <!--Footer-->
@@ -163,7 +163,7 @@
         <!--Call to action-->
         <div class="call-to-action">
             <h4>Material Design for Bootstrap</h4>
-            <ul>
+            <ul class="smooth-scroll">
                 <li>
                     <h5>Get our UI KIT for free</h5></li>
                 <li><a target="_blank" href="http://mdbootstrap.com/getting-started/" class="btn btn-danger" rel="nofollow">Sign up!</a></li>
@@ -187,15 +187,17 @@
 </template>
 
 <script>
-import ContactUs from './components/ContactUs'
+import About from './components/About'
 import Technology from './components/Technology'
 import Team from './components/Team'
+import ContactUs from './components/ContactUs'
 export default {
   name: 'app',
   components: {
-    ContactUs,
+    About,
     Technology,
-    Team
+    Team,
+    ContactUs
   }
 }
 </script>
