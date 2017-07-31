@@ -9,24 +9,30 @@
             <a class="navbar-brand" href="#">
                 <strong>Navbar</strong>
             </a>
-            <div class="collapse navbar-collapse" id="navbarNav1">
-                <ul class="navbar-nav mr-auto">
-                    <li class="nav-item active">
-                        <a class="nav-link">Home <span class="sr-only">(current)</span></a>
+            <div class="collapse navbar-collapse" id="body-scroller" >
+                <ul class="navbar-nav mr-auto smooth-scroll"  role="navigation">
+                    <li class="nav-item">
+                      <a class="nav-link active" href="#home"><h3>Home</h3> <span class="sr-only">(current)</span></a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link">Features</a>
+                        <a class="nav-link" href="#about" ><h3>About</h3></a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link">Pricing</a>
+                        <a class="nav-link" href="#services" ><h3>Our Services</h3></a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link">About</a>
+                        <a class="nav-link" href="#technology" ><h3>Technology</h3></a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#team" ><h3>Team</h3></a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#contact-us" ><h3>Contact Us</h3></a>
                     </li>
                 </ul>
-                <form class="form-inline waves-effect waves-light">
+                <!-- <form class="form-inline waves-effect waves-light">
                     <input class="form-control" type="text" placeholder="Search">
-                </form>
+                </form> -->
             </div>
         </div>
     </nav>
@@ -42,14 +48,14 @@
         <!--/.Indicators-->
 
         <!--Slides-->
-        <div class="carousel-inner" role="listbox">
+        <div class="carousel-inner " role="listbox" data-spy="scroll" data-target="#home" data-offset="0">
             <!--First slide-->
             <div class="carousel-item active">
                 <!--Mask color-->
                 <div class="view hm-black-light">
 
                     <!--Video source-->
-                    <video autoplay="" loop="" class="video-full" data-wow-delay="1s" id="video-background">
+                    <video autoplay="" loop="" class="video-full" data-wow-delay="1s" id="video-background" >
                         <source src="/static/backdropvid.mp4" type="video/mp4">Your browser does not support the video tag. I suggest you upgrade your browser.
                     </video>
                     <div class="full-bg-img"></div>
@@ -57,16 +63,17 @@
 
                 <!--Caption-->
                 <div class="carousel-caption">
-                    <div class="flex-center animated fadeIn">
+                    <div class="flex-center wow animated fadeInDown" data-wow-delay="0.5s">
                         <ul>
                             <li>
-                                <h1 class="h1-responsive font-weight-bold">Division By Zero</h1></li>
+                                <h1 class="h1-responsive font-weight-bold ">Division By Zero</h1></li>
+                                <h2 class = "text-primary ">Custom Development for your Startup or Business</h2>
                             <li>
-                                <h2 class = "text-primary ">Web Apps, Scripts, APIs and Backend Development for your Startup or Business</h2>
+                                <small class = "text-default text-muted ">Web Apps, Scripts, APIs and Backend Software</small>
                             </li>
                             <li>
                                 <a target="_blank" href="http://mdbootstrap.com/getting-started/" class="btn btn-primary btn-lg" rel="nofollow">GET A QUOTE</a>
-                                <a target="_blank" href="http://mdbootstrap.com/material-design-for-bootstrap/" class="btn btn-default btn-lg" rel="nofollow">LEARN MORE</a>
+                                <a target="_blank" href="http://mdbootstrap.com/material-design-for-bootstrap/" class="btn btn-pink btn-lg" rel="nofollow">LEARN MORE</a>
                             </li>
                         </ul>
                     </div>
@@ -91,77 +98,31 @@
     </div>
     <!--/.Carousel Wrapper-->
     <!-- Purple Header -->
+    <!--Navigation links with a Smooth SCroll effect-->
 
 
-    <about class="col-md-9 col-lg-9 mx-auto float-none white"></about>
-    <technology class="col-md-9 col-lg-9 mx-auto float-none white"></technology>
-    <team class="col-md-9 col-lg-9 mx-auto float-none white"></team>
+    <div class="streak flex-center pt-3">
+      <div class="row">
+        <div class="col-md-12 text-center">
+          <h3 class="wow fadeIn"><i class="fa fa-quote-left" aria-hidden="true"></i>Because the people who are crazy enough to think they can change the world, are the ones who do.<i class="fa fa-quote-right" aria-hidden="true"></i></h3>
+          <h5 class="text-center font-italic wow fadeIn" data-wow-delay="0.2s">~ Steve Jobs</h5>
+        </div>
+        <div class="col-md-6">
+          <ul>
+          </ul>
+        </div>
+      </div>
+    </div>
+    <about class="col-sm-12 col-md-9 col-lg-9 mx-auto float-none" id="about"></about>
+    <services class="col-sm-12 col-md-9 col-lg-9 mx-auto float-none"  id="services"></services>
+    <technology class="col-sm-12 col-md-9 col-lg-9  mx-auto float-none "  id="technology"></technology>
+    <team class="col-sm-12 col-md-9 col-lg-9 mx-auto float-none"  id="team"></team>
+
     <!--Footer-->
     <footer class="page-footer center-on-small-only">
-
-        <!--Footer Links-->
-        <div class="container-fluid">
-            <div class="row">
-
-                <!--First column-->
-                <div class="col-lg-3 offset-lg-1 hidden-lg-down">
-                    <h5 class="title">ABOUT MATERIAL DESIGN</h5>
-                    <p>Material Design (codenamed Quantum Paper) is a design language developed by Google. </p>
-
-                    <p>Material Design for Bootstrap (MDB) is a powerful Material Design UI KIT for most popular HTML, CSS, and JS framework - Bootstrap.</p>
-                </div>
-                <!--/.First column-->
-
-                <hr class="hidden-md-up">
-
-                <!--Second column-->
-                <div class="col-lg-2 col-md-4 offset-lg-1">
-                    <h5 class="title">First column</h5>
-                    <ul>
-                        <li><a href="#!">Link 1</a></li>
-                        <li><a href="#!">Link 2</a></li>
-                        <li><a href="#!">Link 3</a></li>
-                        <li><a href="#!">Link 4</a></li>
-                    </ul>
-                </div>
-                <!--/.Second column-->
-
-                <hr class="hidden-md-up">
-
-                <!--Third column-->
-                <div class="col-lg-2 col-md-4">
-                    <h5 class="title">Second column</h5>
-                    <ul>
-                        <li><a href="#!">Link 1</a></li>
-                        <li><a href="#!">Link 2</a></li>
-                        <li><a href="#!">Link 3</a></li>
-                        <li><a href="#!">Link 4</a></li>
-                    </ul>
-                </div>
-                <!--/.Third column-->
-
-                <hr class="hidden-md-up">
-
-                <!--Fourth column-->
-                <div class="col-lg-2 col-md-4">
-                    <h5 class="title">Third column</h5>
-                    <ul>
-                        <li><a href="#!">Link 1</a></li>
-                        <li><a href="#!">Link 2</a></li>
-                        <li><a href="#!">Link 3</a></li>
-                        <li><a href="#!">Link 4</a></li>
-                    </ul>
-                </div>
-                <!--/.Fourth column-->
-
-            </div>
-        </div>
-        <!--/.Footer Links-->
-
-        <hr>
-
+        <contact-us class="col-sm-12 col-md-9 col-lg-9 mx-auto float-none"  id="contact-us"></contact-us>
         <!--Call to action-->
-        <div class="call-to-action">
+        <!-- <div class="call-to-action">
             <h4>Material Design for Bootstrap</h4>
             <ul class="smooth-scroll">
                 <li>
@@ -169,13 +130,13 @@
                 <li><a target="_blank" href="http://mdbootstrap.com/getting-started/" class="btn btn-danger" rel="nofollow">Sign up!</a></li>
                 <li><a target="_blank" href="http://mdbootstrap.com/material-design-for-bootstrap/" class="btn btn-default" rel="nofollow">Learn more</a></li>
             </ul>
-        </div>
+        </div> -->
         <!--/.Call to action-->
 
         <!--Copyright-->
         <div class="footer-copyright">
             <div class="container-fluid">
-                © 2015 Copyright: <a href="http://www.MDBootstrap.com"> MDBootstrap.com </a>
+                © 2017 Copyright: <a href="http://divisionbyzero.co.za"> divisionbyzero.co.za </a>
 
             </div>
         </div>
@@ -188,6 +149,7 @@
 
 <script>
 import About from './components/About'
+import Services from './components/Services'
 import Technology from './components/Technology'
 import Team from './components/Team'
 import ContactUs from './components/ContactUs'
@@ -195,6 +157,7 @@ export default {
   name: 'app',
   components: {
     About,
+    Services,
     Technology,
     Team,
     ContactUs

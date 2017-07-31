@@ -1,32 +1,33 @@
 <template>
   <!--Technologies-->
-  <section class="section">
+  <section class="section wow animated fadeInDown" data-wow-delay="0.5s">
     <div class="container-fluid center-text">
       <div class="row justify-content-md-center mt-3">
         <div class="col-lg-12 text-center">
-          <h1 class="text-primary">The Technologies We Use</h1>
+          <h1 class="text-primary">The <strong>Technology</strong> We Use</h1>
         </div>
       </div>
     </div>
     <div class="container-fluid center-text">
       <div class="row justify-content-md-center mt-3">
+        <p class="section-description">The landscape of software development is evolving constantly. Our goal is to keep up to date with the latest and greatest software development frameworks. Here are a few of the technologies that we employee to execute on our deliverables.</p>
         <div class="card-deck">
-          
-          <div class="card wow fadeInUp hoverable p-3" data-wow-delay="0.5s">
+
+            <div class="card wow fadeInUp hoverable p-3 card-outline-primary mb-1" data-wow-delay="0.5s">
             <div class="feature">
-              <div class = "technology-card text-center">
+              <div class = "technology-card card-block text-center">
                 <i class="devicon-meteor-plain colored"></i>
                 <h4 class = "mt-1">Meteor.js</h4>
-                <p>
+                <p >
                   Meteor is a complete platform for building web and mobile apps in pure JavaScript.
                 </p>
               </div>
             </div>
           </div>
 
-          <div class="card wow fadeInUp hoverable p-3" data-wow-delay="0.6s">
+          <div class="card wow fadeInUp hoverable p-3 mb-1" data-wow-delay="0.6s">
             <div class="feature">
-              <div class = "technology-card text-center">
+              <div class = "technology-card card-block text-center">
                 <i class="devicon-vuejs-plain colored"></i>
                 <h4 class = "mt-1">Vue.js</h4>
                 <p>
@@ -36,9 +37,9 @@
             </div>
           </div>
 
-          <div class="card wow fadeInUp hoverable p-3" data-wow-delay="0.7s">
+          <div class="card wow fadeInUp hoverable p-3 mb-1" data-wow-delay="0.7s">
             <div class="feature">
-              <div class = "technology-card text-center">
+              <div class = "technology-card card-block text-center">
                 <i class="devicon-git-plain colored"></i>
                 <h4 class = "mt-1">Git</h4>
                 <p>
@@ -48,9 +49,9 @@
             </div>
           </div>
 
-          <div class="card wow fadeInUp hoverable p-3" data-wow-delay="0.8s">
+          <div class="card wow fadeInUp hoverable p-3 mb-1" data-wow-delay="0.8s">
             <div class="feature">
-              <div class = "technology-card text-center">
+              <div class = "technology-card card-block text-center">
                 <i class="devicon-nodejs-plain colored"></i>
                 <h4 class = "mt-1">Node.js</h4>
                 <p>
@@ -63,12 +64,12 @@
         </div>
       </div>
       <div class="clearfix"></div>
-      <div class="row justify-content-md-center mt-3">
+      <div class="row justify-content-md-center mt-1">
         <div class="card-deck">
 
-          <div class="card wow fadeInUp hoverable p-3" data-wow-delay="1.2s">
+          <div class="card wow fadeInUp hoverable p-3 mb-1" data-wow-delay="1.2s">
             <div class="feature">
-              <div class = "technology-card text-center">
+              <div class = "technology-card card-block text-center">
                 <i class="devicon-mysql-plain"></i>
                 <h4 class = "mt-1">MySQL</h4>
                 <p>
@@ -78,9 +79,9 @@
             </div>
           </div>
 
-          <div class="card wow fadeInUp hoverable p-3" data-wow-delay="1.1s">
+          <div class="card wow fadeInUp hoverable p-3 mb-1" data-wow-delay="1.1s">
             <div class="feature">
-              <div class = "technology-card text-center">
+              <div class = "technology-card card-block text-center">
                 <i class="devicon-bootstrap-plain colored"></i>
                 <h4 class = "mt-1">Bootstrap</h4>
                 <p>
@@ -90,9 +91,9 @@
             </div>
           </div>
 
-          <div class="card wow fadeInUp hoverable p-3" data-wow-delay="1s">
+          <div class="card wow fadeInUp hoverable p-3 mb-1" data-wow-delay="1s">
             <div class="feature">
-              <div class = "technology-card text-center">
+              <div class = "technology-card card-block text-center">
                 <i class="devicon-html5-plain"></i>
                 <h4 class = "mt-1">HTML 5</h4>
                 <p>
@@ -102,9 +103,9 @@
             </div>
           </div>
 
-          <div class="card hoverable p-3 wow fadeInUp" data-wow-delay="0.9s">
+          <div class="card wow fadeInUp hoverable p-3 mb-1" data-wow-delay="0.9s">
             <div class="feature">
-              <div class = "technology-card text-center">
+              <div class = "technology-card card-block text-center">
                 <i class="devicon-angularjs-plain colored"></i>
                 <h4 class = "mt-1">Angular.js</h4>
                 <p>

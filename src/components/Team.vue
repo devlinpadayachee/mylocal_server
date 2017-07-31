@@ -1,19 +1,20 @@
 <template>
   <!--Team-->
-  <section class="section">
+  <section class="section wow animated fadeInDown" data-wow-delay="0.5">
     <div class="container-fluid center-text">
       <div class="row justify-content-md-center mt-3">
         <div class="col-lg-12 text-center">
-          <h1 class="text-primary">Our Super Team</h1>
+          <h1 class="text-primary">Our Super <strong>Team</strong></h1>
         </div>
       </div>
     </div>
     <div class="container-fluid center-text">
       <div class="row justify-content-md-center mt-3 text-center">
+        <p class="section-description">We know it takes teamwork and collaboration to produce the best solutions. Our success boils down to our people.  We see each team member as an individual who contributes, shapes, and optimizes everything we deliver to our clients.</p>
+
         <section class="section team-section">
           <!--Section heading-->
           <!--Section description-->
-          <p class="section-description">We know it takes teamwork and collaboration to produce the best solutions. Our success boils down to our people.  We see each team member as an individual who contributes, shapes, and optimizes everything we deliver to our clients.</p>
 
           <!--First row-->
           <div class="row justify-content-md-center text-center">
