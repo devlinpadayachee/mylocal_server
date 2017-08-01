@@ -36,6 +36,7 @@
             </div>
         </div>
     </nav>
+
     <!--/.Navbar-->
     <!--Carousel Wrapper-->
     <div id="video-carousel-example2" class="carousel slide carousel-fade" data-ride="carousel">
@@ -64,7 +65,7 @@
                 <!--Caption-->
                 <div class="carousel-caption">
                     <div class="flex-center wow animated fadeInDown" data-wow-delay="0.5s">
-                        <ul>
+                        <ul class="smooth-scroll">
                             <li>
                                 <h1 class="h1-responsive font-weight-bold ">Division By Zero</h1></li>
                                 <h2 class = "text-primary ">Custom Development for your Startup or Business</h2>
@@ -72,7 +73,7 @@
                                 <small class = "text-default text-muted ">Web Apps, Scripts, APIs and Backend Software</small>
                             </li>
                             <li>
-                                <a target="_blank" href="http://mdbootstrap.com/getting-started/" class="btn btn-primary btn-lg" rel="nofollow">GET A QUOTE</a>
+                                <a target="_blank" href="#contact-us" class="btn btn-primary btn-lg" rel="nofollow">GET A QUOTE</a>
                                 <a target="_blank" href="http://mdbootstrap.com/material-design-for-bootstrap/" class="btn btn-pink btn-lg" rel="nofollow">LEARN MORE</a>
                             </li>
                         </ul>
@@ -140,10 +141,16 @@
 
             </div>
         </div>
+        <div class="fixed-action-btn smooth-scroll" style="bottom: 45px; right: 24px;">
+          <a href="#home" class="btn-floating btn-large red">
+          <i class="fa fa-arrow-up"></i>
+          </a>
+        </div>
         <!--/.Copyright-->
 
     </footer>
     <!--/.Footer-->
+
   </div>
 </template>
 

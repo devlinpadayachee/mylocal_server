@@ -8,84 +8,73 @@
         </div>
       </div>
     </div>
-    <div class="container-fluid center-text">
-      <div class="row justify-content-md-center mt-3 ">
+    <div class="container-fluid">
+      <div class="row justify-content-md-center ">
         <p class="section-description">We know it takes teamwork and collaboration to produce the best solutions. Our success boils down to our people.  We see each team member as an individual who contributes, shapes, and optimizes everything we deliver to our clients.</p>
               <div class="col-lg-6">
-                <form>
-    <!--First row-->
-    <div class="row">
-        <!--First column-->
-        <div class="col-md-6">
-            <div class="md-form">
-                <i class="fa fa-envelope prefix"></i>
-                <input type="email" id="form81" class="form-control validate">
-                <label for="form81" data-error="wrong" data-success="right">Type your email</label>
-            </div>
-        </div>
+                <!-- Contact form -->
+                  <form>
 
-        <!--Second column-->
-        <div class="col-md-6">
-            <div class="md-form">
-                <i class="fa fa-lock prefix"></i>
-                <input type="password" id="form82" class="form-control validate">
-                <label for="form82" data-error="wrong" data-success="right">Type your password</label>
-            </div>
-        </div>
-    </div>
-    <!--/.First row-->
+                      <div class="md-form">
+                          <i class="fa fa-user prefix grey-text"></i>
+                          <input type="text" id="form3" class="form-control">
+                          <label for="form3">Your name</label>
+                      </div>
 
-    <!--Second row-->
-    <div class="row">
-        <!--First column-->
-        <div class="col-md-12">
+                      <div class="md-form">
+                          <i class="fa fa-envelope prefix grey-text"></i>
+                          <input type="text" id="form2" class="form-control">
+                          <label for="form2">Your email</label>
+                      </div>
 
-            <div class="md-form">
-                <textarea type="text" id="form76" class="md-textarea"></textarea>
-                <label for="form76">Basic textarea</label>
-            </div>
+                      <div class="md-form">
+                          <i class="fa fa-tag prefix grey-text"></i>
+                          <input type="text" id="form32" class="form-control">
+                          <label for="form34">Subject</label>
+                      </div>
 
-        </div>
-    </div>
-    <!--/.Second row-->
+                      <div class="md-form">
+                          <i class="fa fa-pencil prefix grey-text"></i>
+                          <textarea type="text" id="form8" class="md-textarea" style="height: 100px"></textarea>
+                          <label for="form8">Your message</label>
+                      </div>
 
-    <!--Third row-->
-    <div class="row">
+                      <div class="text-center">
+                          <button class="btn btn-outline-primary btn-lg waves-effect">Send <i class="fa fa-paper-plane-o ml-1"></i></button>
+                      </div>
 
-        <!--First column-->
-        <div class="col-md-4">
-            <div class="md-form">
-                <input type="text" id="form41" class="form-control">
-                <label for="form41" class="">Example label</label>
-            </div>
-        </div>
-
-        <!--Second column-->
-        <div class="col-md-4">
-            <div class="md-form">
-                <input type="text" id="form51" class="form-control">
-                <label for="form51" class="">Example label</label>
-            </div>
-        </div>
-
-        <!--Third column-->
-        <div class="col-md-4">
-            <div class="md-form">
-                <input type="text" id="form61" class="form-control">
-                <label for="form61" class="">Example label</label>
-            </div>
-        </div>
-
-    </div>
-    <!--/.Third row-->
-</form>
+                  </form>
+                  <!-- Contact form -->
               </div>
               <div class="col-lg-6">
-                <h5 class="title">ABOUT MATERIAL DESIGN</h5>
-                <p>Material Design (codenamed Quantum Paper) is a design language developed by Google. </p>
-                <p>Material Design for Bootstrap (MDB) is a powerful Material Design UI KIT for most popular HTML, CSS, and JS framework - Bootstrap.</p>
+
+                         <ul class="contact-icons mt-2">
+                             <li><i class="fa fa-map-marker"></i>
+                                 <p>Sandton, South Africa</p>
+                             </li>
+
+                             <li><i class="fa fa-phone"></i>
+                                 <p>+27 74 577 0050</p>
+                             </li>
+
+                             <li><i class="fa fa-envelope"></i>
+                                 <p>development@divisionbyzero.co.za</p>
+                             </li>
+                         </ul>
+
+                         <hr class="hr-light mb-4 mt-4">
+
+                         <ul class="inline-ul text-center list-unstyled">
+                             <li><a class="icons-sm tw-ic"><i class="fa fa-twitter"></i></a></li>
+                             <li><a class="icons-sm li-ic"><i class="fa fa-linkedin"> </i></a></li>
+                             <li><a class="icons-sm ins-ic"><i class="fa fa-instagram"> </i></a></li>
+                         </ul>
+
               </div>
               <hr class="hidden-md-up">
+
+  
+
       </div>
     </div>
   </section>
