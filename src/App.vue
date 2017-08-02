@@ -118,6 +118,7 @@
     <services class="col-sm-12 col-md-9 col-lg-9 mx-auto float-none"  id="services"></services>
     <technology class="col-sm-12 col-md-9 col-lg-9  mx-auto float-none "  id="technology"></technology>
     <team class="col-sm-12 col-md-9 col-lg-9 mx-auto float-none"  id="team"></team>
+    <component key=bmlbl load=md></component>
 
     <!--Footer-->
     <footer class="page-footer center-on-small-only">

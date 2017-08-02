@@ -19,7 +19,7 @@
               <!--First row-->
               <div class="row">
                 <div class="col-2">
-                  <i class="fa fa-flag-checkered pink-text"></i>
+                  <i class="fa fa-circle-o-notch pink-text"></i>
                 </div>
                 <div class="col-10">
                   <h4 class="feature-title">Web Applications</h4>

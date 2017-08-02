@@ -10,7 +10,12 @@
     </div>
     <div class="container-fluid center-text">
       <div class="row justify-content-md-center mt-3">
-        <p class="section-description">The landscape of software development is evolving constantly. Our goal is to keep up to date with the latest and greatest software development frameworks. Here are a few of the technologies that we employee to execute on our deliverables.</p>
+        <p class="section-description">
+          The landscape of software development is evolving constantly.
+          Our goal is to keep up to date with the latest and greatest software development frameworks.
+          While JavaScript is our bread and butter, our team of skilled developers are adept at many languages and frameworks and will choose the most suitable technology for each Job.
+          Here are a few of the technologies that we employee to execute on our deliverables.
+        </p>
         <div class="card-deck">
 
             <div class="card wow fadeInUp hoverable p-3 card-outline-primary mb-1" data-wow-delay="0.5s">
@@ -128,6 +133,7 @@
     </div>
     <div class="clearfix"></div>
   </section>
+  
   <!--End Technologies-->
 </template>
 
