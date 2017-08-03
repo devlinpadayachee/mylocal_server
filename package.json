@@ -10,7 +10,7 @@
     "build": "node build/build.js",
     "deploy": "git subtree push --prefix dist heroku master",
     "commit": "git add . && git commit -m",
-    "postgit": "git push --all",
+    "postcommit": "git push origin master",
     "lint": "eslint --ext .js,.vue src"
   },
   "dependencies": {
