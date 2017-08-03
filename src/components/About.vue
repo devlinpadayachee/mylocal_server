@@ -2,7 +2,7 @@
   <!--About-->
   <section class="section wow animated fadeInDown about-us" data-wow-delay="0.5s">
     <div class="container-fluid center-text">
-      <div class="row justify-content-md-center mt-3">
+      <div class="row justify-content-md-center pt-3">
         <div class="col-lg-12 text-center">
           <h1 class="text-primary">About <strong>Division By Zero</strong></h1>
         </div>
@@ -10,7 +10,9 @@
     </div>
     <div class="container-fluid center-text">
       <div class="row justify-content-md-center mt-3">
-        <p class="section-description">We know it takes teamwork and collaboration to produce the best solutions. Our success boils down to our people.  We see each team member as an individual who contributes, shapes, and optimizes everything we deliver to our clients.</p>
+        <p class="section-description">
+          Division By Zero specializes in creating custom software for small to medium sized businesses and startups. Our focus is on creating lean, affordable solutions which help your business grow.
+        </p>
 
       </div>
     </div>

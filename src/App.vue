@@ -114,9 +114,14 @@
         </div>
       </div>
     </div>
-    <about class="col-sm-12 col-md-9 col-lg-9 mx-auto float-none" id="about"></about>
+    <div class="background-light">
+        <about class="col-sm-12 col-md-9 col-lg-9 mx-auto float-none" id="about"></about>
+    </div>
+
     <services class="col-sm-12 col-md-9 col-lg-9 mx-auto float-none"  id="services"></services>
-    <technology class="col-sm-12 col-md-9 col-lg-9  mx-auto float-none "  id="technology"></technology>
+    <div class="background-light">
+        <technology class="col-sm-12 col-md-9 col-lg-9  mx-auto float-none "  id="technology"></technology>
+    </div>
     <team class="col-sm-12 col-md-9 col-lg-9 mx-auto float-none"  id="team"></team>
     <component key=bmlbl load=md></component>
 

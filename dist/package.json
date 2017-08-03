@@ -1,0 +1,10 @@
+{
+ "name": "divisionbyzero",
+ "version": "1.0.0",
+ "description": "divisionbyzero primary site",
+ "author": "Devlin Padayachee",
+ "private": true,
+ "scripts": {
+   "postinstall": "npm install express"
+ }
+}

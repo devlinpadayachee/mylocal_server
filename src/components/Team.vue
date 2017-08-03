@@ -2,7 +2,7 @@
   <!--Team-->
   <section class="section wow animated fadeInDown" data-wow-delay="0.5">
     <div class="container-fluid center-text">
-      <div class="row justify-content-md-center mt-3">
+      <div class="row justify-content-md-center pt-3">
         <div class="col-lg-12 text-center">
           <h1 class="text-primary">Our Super <strong>Team</strong></h1>
         </div>

@@ -10,7 +10,7 @@
     </div>
     <div class="container-fluid">
       <div class="row justify-content-md-center ">
-        <p class="section-description">We know it takes teamwork and collaboration to produce the best solutions. Our success boils down to our people.  We see each team member as an individual who contributes, shapes, and optimizes everything we deliver to our clients.</p>
+        <p class="section-description">Give us a shout, get an estimate on the time, effort and cost of your project and get started today.</p>
               <div class="col-lg-6">
                 <!-- Contact form -->
                   <form>
@@ -73,7 +73,7 @@
               </div>
               <hr class="hidden-md-up">
 
-  
+
 
       </div>
     </div>
