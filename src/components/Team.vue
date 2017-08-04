@@ -21,47 +21,76 @@
 
               <!--First column-->
               <div class="col-lg-3 col-md-6 mb-r">
+                  <!--Card Wider-->
+                  <div class="card">
 
-                  <div class="avatar">
+                      <!--Card image-->
+                      <div class="view">
+                          <img src="http://res.cloudinary.com/digitalgraft-co-za/image/upload/c_scale,e_grayscale,h_400,w_400/v1501800050/AlexanderSmith-K_D-176_vgtpzi.jpg" class="img-fluid">
+                          <a href="#!">
+                              <div class="mask"></div>
+                          </a>
+                      </div>
+                      <!--/Card image-->
 
-                      <img src="http://res.cloudinary.com/digitalgraft-co-za/image/upload/c_scale,e_grayscale,h_200,w_200/v1501200571/AlexanderSmith-K_D-176_vgtpzi.jpg" class="rounded-circle" alt="First sample avatar image">
+                      <!--Card content-->
+                      <div class="card-block text-center">
+                          <!--Title-->
+                          <h4 class="card-title"><strong>Alice Mayer</strong></h4>
+                          <h5 class="indigo-text"><strong>Fullstack Developer, Entrepreneur</strong></h5>
+
+                          <p class="card-text">Sed ut perspiciatis unde omnis iste natus sit voluptatem accusantium doloremque laudantium, totam rem aperiam. </p>
+
+
+                          <!--Linkedin-->
+                          <a class="icons-sm li-ic"><i class="fa fa-linkedin"> </i></a>
+                          <!--Twitter-->
+                          <a class="icons-sm tw-ic"><i class="fa fa-twitter"> </i></a>
+                          <!--Dribbble-->
+                          <a class="icons-sm fb-ic"><i class="fa fa-facebook"> </i></a>
+
+                      </div>
+                      <!--/.Card content-->
 
                   </div>
-                  <h4>Devlin Padayachee</h4>
-                  <h5>Fullstack Developer, Entrepreneur</h5>
-                  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod eos id officiis hic tenetur quae quaerat ad velit ab.</p>
-
-                  <!--Facebook-->
-                  <a class="icons-sm fb-ic"><i class="fa fa-facebook"> </i></a>
-                  <!--Twitter-->
-                  <a class="icons-sm tw-ic"><i class="fa fa-twitter"> </i></a>
-                  <!--Dribbble-->
-                  <a class="icons-sm drib-ic"><i class="fa fa-dribbble"> </i></a>
-
+                  <!--/.Card Wider-->
               </div>
-              <!--/First column-->
-
-              <!--Second column-->
               <div class="col-lg-3 col-md-6 mb-r">
+                  <!--Card Wider-->
+                  <div class="card">
 
-                  <div class="avatar">
+                      <!--Card image-->
+                      <div class="view">
+                          <img src="http://res.cloudinary.com/digitalgraft-co-za/image/upload/c_scale,e_grayscale,h_400,w_400/v1501201150/T_uxvoj3.jpg" class="img-fluid">
+                          <a href="#!">
+                              <div class="mask"></div>
+                          </a>
+                      </div>
+                      <!--/Card image-->
 
-                      <img src="http://res.cloudinary.com/digitalgraft-co-za/image/upload/c_scale,e_grayscale,h_200,w_200/v1501201150/T_uxvoj3.jpg" class="rounded-circle" alt="Second sample avatar image">
+                      <!--Card content-->
+                      <div class="card-block text-center">
+                          <!--Title-->
+                          <h4 class="card-title"><strong>Tshepiso Tsotetsi</strong></h4>
+                          <h5 class="indigo-text"><strong>Backend and API Expert</strong></h5>
+
+                          <p class="card-text">Sed ut perspiciatis unde omnis iste natus sit voluptatem accusantium doloremque laudantium, totam rem aperiam. </p>
+
+
+                          <!--Linkedin-->
+                          <a class="icons-sm li-ic"><i class="fa fa-linkedin"> </i></a>
+                          <!--Twitter-->
+                          <a class="icons-sm tw-ic"><i class="fa fa-twitter"> </i></a>
+                          <!--Dribbble-->
+                          <a class="icons-sm fb-ic"><i class="fa fa-facebook"> </i></a>
+
+                      </div>
+                      <!--/.Card content-->
 
                   </div>
-                  <h4>Tshepiso Tsotetsi</h4>
-                  <h5>Backend and API Expert</h5>
-                  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod eos id officiis hic tenetur quae quaerat ad velit ab.</p>
-
-                  <!--Linkedin-->
-                  <a class="icons-sm li-ic"><i class="fa fa-linkedin"> </i></a>
-                  <!--Facebook-->
-                  <a class="icons-sm fb-ic"><i class="fa fa-facebook"> </i></a>
-                  <!--GitHub-->
-                  <a class="icons-sm git-ic"><i class="fa fa-github"> </i></a>
-
+                  <!--/.Card Wider-->
               </div>
-              <!--/Second column-->
+
 
 
           </div>

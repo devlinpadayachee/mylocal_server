@@ -1,6 +1,6 @@
 <template>
   <!--Technologies-->
-  <section class="section wow animated fadeInDown" data-wow-delay="0.5s">
+  <section class="section wow animated fadeInDown py-3" data-wow-delay="0.5s">
     <div class="container-fluid center-text">
       <div class="row justify-content-md-center pt-3">
         <div class="col-lg-12 text-center">

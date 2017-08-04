@@ -19,11 +19,11 @@
               <!--First row-->
               <div class="row">
                 <div class="col-2">
-                  <i class="fa fa-circle-o-notch pink-text"></i>
+                  <i class="fa fa-circle-o-notch   pink-text"></i>
                 </div>
                 <div class="col-10">
                   <h4 class="feature-title">Web Applications</h4>
-                  <p class="grey-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reprehenderit maiores nam, aperiam minima assumenda deleniti hic.</p>
+                  <p class="grey-text">Need a custom application to solve a business problem, we have you covered. </p>
                   <div style="height:30px"></div>
                 </div>
               </div>
@@ -31,7 +31,7 @@
               <!--Second row-->
               <div class="row">
                 <div class="col-2">
-                  <i class="fa fa-flask pink-text"></i>
+                  <i class="fa  fa-flask pink-text"></i>
                 </div>
                 <div class="col-10">
                   <h4 class="feature-title">Scripts</h4>
@@ -88,7 +88,7 @@
               <!--Third row-->
               <div class="row">
                 <div class="col-2">
-                  <i class="fa fa-magic pink-text"></i>
+                  <i class="fa fa-magic pink-text "></i>
                 </div>
                 <div class="col-10">
                   <h4 class="feature-title">Integration</h4>

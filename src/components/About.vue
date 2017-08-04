@@ -1,6 +1,6 @@
 <template>
   <!--About-->
-  <section class="section wow animated fadeInDown about-us" data-wow-delay="0.5s">
+  <section class="section wow animated fadeInDown about-us  py-3" data-wow-delay="0.5s">
     <div class="container-fluid center-text">
       <div class="row justify-content-md-center pt-3">
         <div class="col-lg-12 text-center">
@@ -12,7 +12,16 @@
       <div class="row justify-content-md-center mt-3">
         <p class="section-description">
           Division By Zero specializes in creating custom software for small to medium sized businesses and startups. Our focus is on creating lean, affordable solutions which help your business grow.
+          <div class="circle">
+            <div class="circle__inner"></div>
+          </div>
         </p>
+
+        <div class="row">
+            <div class="block">
+                <i class="hovicon effect-8">a</i>
+            </div>
+        </div>
 
       </div>
     </div>
