@@ -39,7 +39,7 @@
 
     <!--/.Navbar-->
     <!--Carousel Wrapper-->
-    <div id="video-carousel-example2" class="carousel slide carousel-fade" data-ride="carousel">
+    <div id="video-carousel-example2" class="carousel slide carousel-fade jarallax" data-jarallax='{"speed": 0.2}' data-ride="carousel" >
         <!--Indicators-->
         <!-- <ol class="carousel-indicators">
             <li data-target="#video-carousel-example2" data-slide-to="0" class="active"></li>
@@ -49,7 +49,7 @@
         <!--/.Indicators-->
 
         <!--Slides-->
-        <div class="carousel-inner " role="listbox" data-spy="scroll" data-target="#home" data-offset="0">
+        <div class="carousel-inner " role="listbox" data-spy="scroll" data-target="#home" data-offset="0" >
             <!--First slide-->
             <div class="carousel-item active">
                 <!--Mask color-->
@@ -68,7 +68,7 @@
                         <ul class="smooth-scroll">
                             <li>
                                 <h1 class="h1-responsive font-weight-bold ">Division By Zero</h1></li>
-                                <h2 class = "text-primary ">Custom Development for your Startup or Business</h2>
+                                <h2 class = "text-primary ">Custom Software Development for your Startup or Business</h2>
                             <li>
                                 <small class = "text-default text-muted ">Web Apps, Scripts, APIs and Backend Software</small>
                             </li>
@@ -102,7 +102,7 @@
     <!--Navigation links with a Smooth SCroll effect-->
 
 
-    <div class="streak flex-center pt-3">
+    <div class="streak flex-center">
       <div class="row">
         <div class="col-md-12 text-center">
           <h3 class="wow fadeIn"><i class="fa fa-quote-left" aria-hidden="true"></i>Because the people who are crazy enough to think they can change the world, are the ones who do.<i class="fa fa-quote-right" aria-hidden="true"></i></h3>
@@ -114,16 +114,64 @@
         </div>
       </div>
     </div>
+
     <div class="background-light">
         <about class="col-sm-12 col-md-9 col-lg-9 mx-auto float-none" id="about"></about>
     </div>
+
+    <div class="streak flex-center negsection">
+      <div class="row container text-center">
+        <div class="col-lg-3 col-sm-3 ">
+           <div class="circle circle3 ">
+              <a href="#section_3">
+                 <h3 class = "text-white">
+                    <small>30+</small>
+                    <p>Years of Experience</p>
+                 </h3>
+              </a>
+           </div>
+        </div>
+        <div class="col-lg-3 col-sm-3">
+           <div class="circle circle2">
+              <a href="#section_2">
+                 <h3 class = "text-white">
+                    <small>25+</small>
+                    <p>Customers</p>
+                 </h3>
+              </a>
+           </div>
+        </div>
+         <div class="col-lg-3 col-sm-3">
+            <div class="circle circle1">
+               <a href="#section_1">
+                  <h3 class = "text-white">
+                     <small>80+</small>
+                     <p>Solutions</p>
+                  </h3>
+               </a>
+            </div>
+         </div>
+         <div class="col-lg-3 col-sm-3">
+            <div class="circle">
+               <a href="#section_4">
+                  <h3 class = "text-white">
+                     <small>3000+</small>
+                     <p>Cups of Coffee</p>
+                  </h3>
+               </a>
+            </div>
+         </div>
+      </div>
+    </div>
+
+
+
 
     <services class="col-sm-12 col-md-9 col-lg-9 mx-auto float-none"  id="services"></services>
     <div class="background-light">
         <technology class="col-sm-12 col-md-9 col-lg-9  mx-auto float-none "  id="technology"></technology>
     </div>
     <team class="col-sm-12 col-md-9 col-lg-9 mx-auto float-none"  id="team"></team>
-    <component key=bmlbl load=md></component>
 
     <!--Footer-->
     <footer class="page-footer center-on-small-only">

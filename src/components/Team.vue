@@ -20,7 +20,7 @@
           <div class="row justify-content-md-center text-center">
 
               <!--First column-->
-              <div class="col-lg-3 col-md-6 mb-r">
+              <div class="col-lg-4 col-md-4 col-sm-4 mb-r card-deck">
                   <!--Card Wider-->
                   <div class="card">
 
@@ -55,7 +55,7 @@
                   </div>
                   <!--/.Card Wider-->
               </div>
-              <div class="col-lg-3 col-md-6 mb-r">
+              <div class="col-lg-4 col-md-4 col-sm-4 mb-r card-deck">
                   <!--Card Wider-->
                   <div class="card">
 

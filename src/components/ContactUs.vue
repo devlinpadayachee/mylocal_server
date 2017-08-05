@@ -17,26 +17,32 @@
 
                       <div class="md-form">
                           <i class="fa fa-user prefix grey-text"></i>
-                          <input type="text" id="form3" class="form-control">
-                          <label for="form3">Your name</label>
+                          <input type="text" id="name" class="form-control">
+                          <label for="name">Your name</label>
                       </div>
 
                       <div class="md-form">
                           <i class="fa fa-envelope prefix grey-text"></i>
-                          <input type="text" id="form2" class="form-control">
-                          <label for="form2">Your email</label>
+                          <input type="text" id="email" class="form-control">
+                          <label for="email">Your email</label>
                       </div>
 
                       <div class="md-form">
                           <i class="fa fa-tag prefix grey-text"></i>
-                          <input type="text" id="form32" class="form-control">
-                          <label for="form34">Subject</label>
+                          <input type="text" id="budget" class="form-control">
+                          <label for="budget">Your project budget</label>
+                      </div>
+
+                      <div class="md-form">
+                          <i class="fa fa-tag prefix grey-text"></i>
+                          <input type="text" id="subject" class="form-control">
+                          <label for="subject">Subject</label>
                       </div>
 
                       <div class="md-form">
                           <i class="fa fa-pencil prefix grey-text"></i>
-                          <textarea type="text" id="form8" class="md-textarea" style="height: 100px"></textarea>
-                          <label for="form8">Your message</label>
+                          <textarea type="text" id="message" class="md-textarea" style="height: 100px"></textarea>
+                          <label for="message">Your message</label>
                       </div>
 
                       <div class="text-center">

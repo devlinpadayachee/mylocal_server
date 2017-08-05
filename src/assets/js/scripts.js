@@ -7,7 +7,7 @@ $(document).ready(function () {
   $('.smooth-scroll').on('click', 'a', function (event) {
     event.preventDefault()
     var elAttr = $(this).attr('href')
-    var offset = ($(this).data('offset') ? $(this).data('offset') : -500)
+    var offset = ($(this).data('offset') ? $(this).data('offset') : -4000)
     $('body,html').animate({
       scrollTop: $(elAttr).offset().top + offset
     }, 700)
