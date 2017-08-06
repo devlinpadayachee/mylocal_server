@@ -5,6 +5,9 @@
  "author": "Devlin Padayachee",
  "private": true,
  "scripts": {
-   "postinstall": "npm install express"
+  "postinstall": "npm install express"
+ },
+ "dependencies": {
+  "nodemailer": "^4.0.1"
  }
 }

@@ -39,7 +39,7 @@
 
     <!--/.Navbar-->
     <!--Carousel Wrapper-->
-    <div id="video-carousel-example2" class="carousel slide carousel-fade jarallax" data-jarallax='{"speed": 0.2}' data-ride="carousel" >
+    <div id="video-carousel-example2" class="carousel slide carousel-fade" data-ride="carousel" >
         <!--Indicators-->
         <!-- <ol class="carousel-indicators">
             <li data-target="#video-carousel-example2" data-slide-to="0" class="active"></li>
