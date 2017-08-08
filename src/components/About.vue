@@ -11,8 +11,9 @@
       <div class="container-fluid center-text">
          <div class="row justify-content-md-center mt-3">
             <p class="section-description">
-               Division By Zero is a boutique software development company which specializes in creating custom solutions for small to medium sized businesses and startups. Our focus is on creating lean, affordable solutions which help your business grow.
+               Division By Zero is a boutique development company which specializes in creating custom software for small to medium sized businesses and startups. Our focus is on creating lean, affordable solutions which help your business grow.
             </p>
+          </hr>
          </div>
          <!--Grid row-->
          <div class="row">
@@ -26,33 +27,33 @@
             <div class="col-lg-6 col-xl-7 pl-lg-5 pb-4">
                <!--Grid row-->
                <div class="row mb-2">
-                  <div class="col-1 mr-1">
+                  <!-- <div class="col-1 mr-1">
                      <i class="fa fa-bank fa-lg text-primary"></i>
-                  </div>
+                  </div> -->
                   <div class="col-10">
-                     <h4 class="feature-title">MVP Solutions To Get You Started</h4>
+                     <h4 class="feature-title indigo-text">MVP Solutions To Get You Started</h4>
                      <p class="grey-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reprehenderit maiores nam, aperiam minima assumenda voluptate velit.</p>
                   </div>
                </div>
                <!--Grid row-->
                <!--Grid row-->
                <div class="row mb-2">
-                  <div class="col-1 mr-1">
+                  <!-- <div class="col-1 mr-1">
                      <i class="fa fa-code fa-lg text-primary"></i>
-                  </div>
+                  </div> -->
                   <div class="col-10 ">
-                     <h4 class="feature-title">Quick Turn Around Times</h4>
+                     <h4 class="feature-title indigo-text">Quick Turn Around Times</h4>
                      <p class="grey-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reprehenderit maiores nam, aperiam minima assumenda voluptate velit.</p>
                   </div>
                </div>
                <!--Grid row-->
                <!--Third row-->
                <div class="row mb-2">
-                  <div class="col-1 mr-1">
+                  <!-- <div class="col-1 mr-1">
                      <i class="fa fa-money fa-lg text-primary"></i>
-                  </div>
+                  </div> -->
                   <div class="col-10">
-                     <h4 class="feature-title">Affordable and Flexible Payment Options</h4>
+                     <h4 class="feature-title indigo-text">Affordable and Flexible Payment Options</h4>
                      <p class="grey-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reprehenderit maiores nam, aperiam minima assumenda voluptate velit.</p>
                   </div>
                </div>
@@ -68,34 +69,34 @@
             <div class="col-lg-6 col-xl-7 mb-3">
                <!--Grid row-->
                <div class="row mb-2">
-                  <div class="col-1 mr-1">
+                  <!-- <div class="col-1 mr-1">
                      <i class="fa fa-eye fa-lg text-primary"></i>
-                  </div>
+                  </div> -->
                   <div class="col-10">
-                     <h4 class="feature-title">RealTime, Scalable Applications On The Latest Technologies</h4>
+                     <h4 class="feature-title indigo-text">RealTime, Scalable Applications On The Latest Technologies</h4>
                      <p class="grey-text">Each of our solutions are built with the future in mind. </p>
                   </div>
                </div>
                <!--Grid row-->
                <!--Grid row-->
                <div class="row mb-2">
-                  <div class="col-1 mr-1">
+                  <!-- <div class="col-1 mr-1">
                      <i class="fa fa-heart-o fa-lg text-primary"></i>
-                  </div>
+                  </div> -->
                   <div class="col-10">
-                     <h4 class="feature-title">Techical Specialists Assisting You All The Way</h4>
+                     <h4 class="feature-title indigo-text">Techical Specialists Assisting You All The Way</h4>
                      <p class="grey-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reprehenderit maiores nam, aperiam minima assumenda voluptate velit.</p>
                   </div>
                </div>
                <!--Grid row-->
                <!--Third row-->
                <div class="row mb-2">
-                  <div class="col-1 mr-1">
+                  <!-- <div class="col-1 mr-1">
                      <i class="fa fa-smile-o fa-lg text-primary"></i>
-                  </div>
+                  </div> -->
                   <div class="col-10">
-                     <h4 class="feature-title">Communication</h4>
-                     <p class="grey-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reprehenderit maiores nam, aperiam minima assumenda voluptate velit.</p>
+                     <h4 class="feature-title indigo-text">Communication</h4>
+                     <p class= "grey-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reprehenderit maiores nam, aperiam minima assumenda voluptate velit.</p>
                   </div>
                </div>
                <!--/Third row-->

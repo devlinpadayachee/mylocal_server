@@ -178,13 +178,13 @@
         </div>
       </div>
     </div>
-    <div class="container-fluid center-text">
+    <!-- <div class="container-fluid center-text">
       <div class="row justify-content-md-center py-3">
         <div class="col-lg-12 text-center">
           <a href="#contactus" class="btn btn-elegant btn-lg page-scroll">Learn More</a>
         </div>
       </div>
-    </div>
+    </div> -->
   </section>
 
   <!--End Technologies-->

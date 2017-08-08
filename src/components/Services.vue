@@ -11,7 +11,7 @@
       <div class="container-fluid center-text">
          <div class="row justify-content-md-center mt-3">
             <p class="section-description">
-               We know it takes teamwork and collaboration to produce the best solutions. Our success boils down to our people.  We see each team member as an individual who contributes, shapes, and optimizes everything we deliver to our clients.
+               We offer a range of development services. Our team of technical specialists are adept at solving business problems using code.
             </p>
          </div>
          <!--First row-->
@@ -22,25 +22,25 @@
                      <i class="fa fa-circle-o-notch   pink-text"></i>
                   </div>
                   <div class="col-10">
-                     <h4 class="feature-title">Web Applications</h4>
-                     <p class="grey-text">Need a custom application to solve a business problem, we have you covered. </p>
+                     <h4 class="feature-title indigo-text">Web Applications and Sites</h4>
+                     <p class="grey-text">Need a custom application to solve a business problem, we have you covered. We create secure bespoke software adapted to your internal processes and specifications, or give us a call to help you setup your business website.</p>
                   </div>
                </div>
                <div class="row mb-2">
                   <div class="col-1 mr-1">
-                     <i class="fa  fa-flask pink-text"></i>
+                     <i class="fa  fa-circle-o-notch  pink-text"></i>
                   </div>
                   <div class="col-10">
-                     <h4 class="feature-title">Scripts</h4>
-                     <p class="grey-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reprehenderit maiores nam, aperiam minima assumenda deleniti hic.</p>
+                     <h4 class="feature-title indigo-text">Scripts and Automation</h4>
+                     <p class="grey-text">Let us automate those manual repetitive tasks which you perform on a daily basis. Tasks such as reporting and calculations should never be done manually, your time is precious. </p>
                   </div>
                </div>
                <div class="row mb-2">
                   <div class="col-1 mr-1">
-                     <i class="fa fa-usb pink-text"></i>
+                     <i class="fa fa-circle-o-notch  pink-text"></i>
                   </div>
                   <div class="col-10">
-                     <h4 class="feature-title">APIs</h4>
+                     <h4 class="feature-title indigo-text">APIs</h4>
                      <p class="grey-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reprehenderit maiores nam, aperiam minima assumenda deleniti hic.</p>
                   </div>
                </div>
@@ -51,28 +51,28 @@
             <div class="col-lg-4 col-xl-4 pr-lg-4">
                <div class="row mb-2">
                   <div class="col-1 mr-1">
-                     <i class="fa fa-heart pink-text"></i>
+                     <i class="fa fa-circle-o-notch  pink-text"></i>
                   </div>
                   <div class="col-10">
-                     <h4 class="feature-title">Backend Dev</h4>
+                     <h4 class="feature-title indigo-text">Backend Dev</h4>
                      <p class="grey-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reprehenderit maiores nam, aperiam minima assumenda deleniti hic.</p>
                   </div>
                </div>
                <div class="row mb-2">
                   <div class="col-1 mr-1">
-                     <i class="fa fa-flash pink-text"></i>
+                     <i class="fa fa-circle-o-notch  pink-text"></i>
                   </div>
                   <div class="col-10">
-                     <h4 class="feature-title">Automation</h4>
+                     <h4 class="feature-title indigo-text">Mobile Apps</h4>
                      <p class="grey-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reprehenderit maiores nam, aperiam minima assumenda deleniti hic.</p>
                   </div>
                </div>
                <div class="row mb-2">
                   <div class="col-1 mr-1">
-                     <i class="fa fa-magic pink-text "></i>
+                     <i class="fa fa-circle-o-notch pink-text "></i>
                   </div>
                   <div class="col-10">
-                     <h4 class="feature-title">Integration</h4>
+                     <h4 class="feature-title indigo-text">Integration</h4>
                      <p class="grey-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reprehenderit maiores nam, aperiam minima assumenda deleniti hic.</p>
                   </div>
                </div>

@@ -20,6 +20,7 @@ body,
     width: 100%;
     color: #222;
     position: relative;
+    
 }
 
 .carousel-caption {
@@ -287,10 +288,15 @@ compiled.min.css?ver=4.3.2:1
     margin: 10px;
 }
 
-.icons-sm {
+/*.icons-sm, .fa-lg, .fa {
     padding: .5rem;
     margin: .5rem;
-    font-size: 1.5rem;
+    font-size: 2rem;
+}*/
+
+hr {
+  color: #3F729B!important;
+
 }
 
 .tw-ic {
