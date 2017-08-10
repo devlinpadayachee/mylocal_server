@@ -32,7 +32,7 @@
                   </div> -->
                   <div class="col-10">
                      <h4 class="feature-title indigo-text">MVP Solutions To Get You Started</h4>
-                     <p class="grey-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reprehenderit maiores nam, aperiam minima assumenda voluptate velit.</p>
+                     <p class="grey-text">Get up and running as fast as possible. Everyday that you miss </p>
                   </div>
                </div>
                <!--Grid row-->

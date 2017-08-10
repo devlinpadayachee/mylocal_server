@@ -23,7 +23,7 @@
                   </div>
                   <div class="col-10">
                      <h4 class="feature-title indigo-text">Web Applications and Sites</h4>
-                     <p class="grey-text">Need a custom application to solve a business problem, we have you covered. We create secure bespoke software adapted to your internal processes and specifications, or give us a call to help you setup your business website.</p>
+                     <p class="grey-text">Need a custom application to solve a business problem, we have you covered. We create secure bespoke software adapted to your internal business processes and specifications, or give us a call to help you setup your business website.</p>
                   </div>
                </div>
                <div class="row mb-2">
@@ -41,7 +41,7 @@
                   </div>
                   <div class="col-10">
                      <h4 class="feature-title indigo-text">APIs</h4>
-                     <p class="grey-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reprehenderit maiores nam, aperiam minima assumenda deleniti hic.</p>
+                     <p class="grey-text">Have us create an API which gives you access to your stored database information via a rest interface. </p>
                   </div>
                </div>
             </div>
@@ -54,8 +54,8 @@
                      <i class="fa fa-circle-o-notch  pink-text"></i>
                   </div>
                   <div class="col-10">
-                     <h4 class="feature-title indigo-text">Backend Dev</h4>
-                     <p class="grey-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reprehenderit maiores nam, aperiam minima assumenda deleniti hic.</p>
+                     <h4 class="feature-title indigo-text">Backend Dev and Software Rescue</h4>
+                     <p class="grey-text">Do you have legacy software that needs an update or bug fixes. Let us modernize your existing software into to a cloud solution.</p>
                   </div>
                </div>
                <div class="row mb-2">
@@ -64,7 +64,7 @@
                   </div>
                   <div class="col-10">
                      <h4 class="feature-title indigo-text">Mobile Apps</h4>
-                     <p class="grey-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reprehenderit maiores nam, aperiam minima assumenda deleniti hic.</p>
+                     <p class="grey-text">Get started with your business's mobile application.Harness technologies such as geo-location and push-notifications to drive efficiencies in your business.</p>
                   </div>
                </div>
                <div class="row mb-2">
@@ -72,8 +72,8 @@
                      <i class="fa fa-circle-o-notch pink-text "></i>
                   </div>
                   <div class="col-10">
-                     <h4 class="feature-title indigo-text">Integration</h4>
-                     <p class="grey-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reprehenderit maiores nam, aperiam minima assumenda deleniti hic.</p>
+                     <h4 class="feature-title indigo-text">Integration and Product Development</h4>
+                     <p class="grey-text">Need to integrate into a 3rd party provider or end point. We are experts in connecting systems and software. Our team are not only coders but experts in product development.</p>
                   </div>
                </div>
             </div>

@@ -6,11 +6,9 @@
             <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarNav1" aria-controls="navbarNav1" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
             </button>
-            <a class="navbar-brand" href="#">
-                <strong>Navbar</strong>
-            </a>
-            <div class="collapse navbar-collapse" id="body-scroller" >
-                <ul class="navbar-nav mr-auto smooth-scroll"  role="navigation">
+              <a class="navbar-brand page-scroll" href="#home">  <img class="navbar-brand flex-center" src="./assets/img/logo.png" alt="logo"></a>
+              <div class="collapse navbar-collapse" id="body-scroller" >
+                <ul class="navbar-nav mr-auto smooth-scroll" style ="padding-top:7px;"  role="navigation">
                     <li class="nav-item">
                       <a class="nav-link active" href="#home"><h3>Home</h3> <span class="sr-only">(current)</span></a>
                     </li>
@@ -74,7 +72,7 @@
                             </li>
                             <li>
                                 <a target="_blank" href="#contact-us" class="btn btn-primary btn-lg" rel="nofollow">GET A QUOTE</a>
-                                <a target="_blank" href="http://mdbootstrap.com/material-design-for-bootstrap/" class="btn btn-pink btn-lg" rel="nofollow">LEARN MORE</a>
+                                <a target="_blank" href="#services" class="btn btn-pink btn-lg" rel="nofollow">LEARN MORE</a>
                             </li>
                         </ul>
                     </div>
@@ -105,7 +103,7 @@
     <div class="streak flex-center">
       <div class="row">
         <div class="col-md-12 text-center">
-          <h3 class="wow fadeIn"><i class="fa fa-quote-left" aria-hidden="true"></i>Because the people who are crazy enough to think they can change the world, are the ones who do.<i class="fa fa-quote-right" aria-hidden="true"></i></h3>
+          <h3 class="wow fadeIn" data-wow-delay="0.3s"><i class="fa fa-quote-left" aria-hidden="true"></i> Because the people who are crazy enough to think they can change the world, are the ones who do. <i class="fa fa-quote-right" aria-hidden="true"></i></h3>
           <h5 class="text-center font-italic wow fadeIn" data-wow-delay="0.2s">~ Steve Jobs</h5>
         </div>
         <div class="col-md-6">

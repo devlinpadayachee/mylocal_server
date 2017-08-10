@@ -20,7 +20,7 @@ body,
     width: 100%;
     color: #222;
     position: relative;
-    
+
 }
 
 .carousel-caption {
@@ -29,7 +29,16 @@ body,
 }
 .section h1{
   color: #444444!important;
-  font-size : 3.6em;
+  font-size : 3.8em;
+  font-weight: 400;
+}
+
+.section h4 {
+  font-weight: 500;
+}
+
+.h3, h3 {
+    font-size: 1.5rem;
 }
 
 
@@ -66,6 +75,10 @@ body,
     background-color: transparent;
 }
 
+.navbar .container{
+margin-left: 0;
+
+}
 .scrolling-navbar {
     -webkit-transition: background .5s ease-in-out, padding .5s ease-in-out;
     -moz-transition: background .5s ease-in-out, padding .5s ease-in-out;
@@ -92,6 +105,11 @@ body,
     background-color: #1C2331;
     color : #fff!important;
 }
+
+/*.modal p{
+    background-color: #fff;
+    color : #414141!important;
+}*/
 
 footer.page-footer {
     background-color: #1C2331;
@@ -230,7 +248,7 @@ compiled.min.css?ver=4.3.2:1
     color: #fff!important;
 }*/
 
-.streak h2,h5{
+.streak h2,h5,.modal h2{
 
     color: #fff!important;
 }
@@ -239,6 +257,16 @@ compiled.min.css?ver=4.3.2:1
   color : #fff!important;
 }
 
+/*.errorTxt{
+  border: 1px solid red;
+  min-height: 20px;
+}*/
+
+div .error{
+
+  margin-left: 50px;
+  color : firebrick;
+}
 
 .md-form .prefix {
   color : #444444;
@@ -288,11 +316,11 @@ compiled.min.css?ver=4.3.2:1
     margin: 10px;
 }
 
-/*.icons-sm, .fa-lg, .fa {
+.icons-sm, .fa-lg{
     padding: .5rem;
     margin: .5rem;
     font-size: 2rem;
-}*/
+}
 
 hr {
   color: #3F729B!important;

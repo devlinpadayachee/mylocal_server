@@ -13,40 +13,42 @@
         <p class="section-description">Give us a shout, get an estimate on the time, effort and cost of your project and get started today.</p>
               <div class="col-lg-6">
                 <!-- Contact form -->
-                  <form v-on:submit.prevent="onSubmit">
+                  <form v-on:submit.prevent="onSubmit" id="contactForm">
                       <input type="text" name="_gotcha" style="display:none" />
                       <div class="md-form">
                           <i class="fa fa-user prefix grey-text"></i>
-                          <input type="text" name="name" id="name" class="form-control">
+                          <input type="text" name="name" id="name" class="form-control" minlength="2" required>
                           <label for="name">Your name</label>
                       </div>
 
                       <div class="md-form">
                           <i class="fa fa-envelope prefix grey-text"></i>
-                          <input type="text" name="email" id="email" class="form-control">
+                          <input type="email" name="email" id="email" class="form-control" required>
                           <label for="email">Your email</label>
                       </div>
 
                       <div class="md-form">
                           <i class="fa fa-tag prefix grey-text"></i>
-                          <input type="text" name="budget" id="budget" class="form-control">
+                          <input type="number" name="budget" id="budget" class="form-control" required>
                           <label for="budget">Your project budget</label>
                       </div>
 
                       <div class="md-form">
                           <i class="fa fa-tag prefix grey-text"></i>
-                          <input type="text" name="subject"  id="subject" class="form-control">
+                          <input type="text" name="subject"  id="subject" class="form-control" minlength="2" required>
                           <label for="subject">Subject</label>
                       </div>
 
                       <div class="md-form">
                           <i class="fa fa-pencil prefix grey-text"></i>
-                          <textarea type="text" name="message"  id="message" class="md-textarea" style="height: 100px"></textarea>
+                          <textarea type="text" name="message"  id="message" class="md-textarea" style="height: 100px" minlength="10" required></textarea>
                           <label for="message">Your message</label>
                       </div>
 
+                      <!-- <div class="errorTxt"></div> -->
+
                       <div class="text-center">
-                          <button class="btn btn-outline-primary btn-lg waves-effect">Send <i class="fa fa-paper-plane-o ml-1"></i></button>
+                          <button class="btn btn-outline-primary btn-lg waves-effect" id="contactFormbutton" data-toggle="modal" data-target="#centralModalSuccess">Send <i class="fa fa-paper-plane-o ml-1"></i></button>
                       </div>
 
                   </form>
@@ -78,9 +80,6 @@
 
               </div>
               <hr class="hidden-md-up">
-
-
-
       </div>
     </div>
   </section>
@@ -106,11 +105,18 @@ export default {
       var message = event.target.message.value
       console.log(name, email, budget, subject, message)
       $.ajax({
-        url: 'https://formspree.io/devlinpadayachee@gmail.com',
+        url: 'https://formspree.io/development@divisionbyzero.co.za',
         method: 'POST',
         data: {name: name, email: email, budget: budget, message: message, _subject: subject, _replyto: email},
         dataType: 'json'
       })
+      // $('#centralModalSuccess').modal({
+      //   keyboard: true,
+      //   focus: true,
+      //   backdrop: false,
+      //   show: true
+      // })
+      // $('#centralModalSuccess').modal('show')
       // `event` is the native DOM event
     }
   }
