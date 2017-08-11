@@ -70,13 +70,13 @@
                              </li>
                          </ul>
 
-                         <hr class="hr-light mb-4 mt-4">
+                         <!-- <hr class="hr-light mb-4 mt-4">
 
                          <ul class="inline-ul text-center list-unstyled">
                              <li><a class="icons-sm tw-ic"><i class="fa fa-twitter"></i></a></li>
                              <li><a class="icons-sm li-ic"><i class="fa fa-linkedin"> </i></a></li>
                              <li><a class="icons-sm ins-ic"><i class="fa fa-instagram"> </i></a></li>
-                         </ul>
+                         </ul> -->
 
               </div>
               <hr class="hidden-md-up">
