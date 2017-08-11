@@ -22,94 +22,54 @@
                <!--Image-->
                <img src="https://mdbootstrap.com/img/Photos/Horizontal/Work/4-col/img%20%2821%29.jpg" alt="Sample project image" class="img-fluid z-depth-2">
             </div>
-            <!--Grid column-->
-            <!--Grid column-->
             <div class="col-lg-6 col-xl-7 pl-lg-5 pb-4">
-               <!--Grid row-->
                <div class="row mb-2">
-                  <!-- <div class="col-1 mr-1">
-                     <i class="fa fa-bank fa-lg text-primary"></i>
-                  </div> -->
                   <div class="col-10">
                      <h4 class="feature-title indigo-text">MVP Solutions To Get You Started</h4>
-                     <p class="grey-text">Get up and running as fast as possible. Everyday that you miss </p>
+                     <p class="grey-text">Get up and running with your Minimal Viable Product as fast as possible. We understand that every day missed in the market results in lost revenue and gives your competitors the edge.</p>
                   </div>
                </div>
-               <!--Grid row-->
-               <!--Grid row-->
                <div class="row mb-2">
-                  <!-- <div class="col-1 mr-1">
-                     <i class="fa fa-code fa-lg text-primary"></i>
-                  </div> -->
-                  <div class="col-10 ">
-                     <h4 class="feature-title indigo-text">Quick Turn Around Times</h4>
-                     <p class="grey-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reprehenderit maiores nam, aperiam minima assumenda voluptate velit.</p>
-                  </div>
-               </div>
-               <!--Grid row-->
-               <!--Third row-->
-               <div class="row mb-2">
-                  <!-- <div class="col-1 mr-1">
-                     <i class="fa fa-money fa-lg text-primary"></i>
-                  </div> -->
                   <div class="col-10">
                      <h4 class="feature-title indigo-text">Affordable and Flexible Payment Options</h4>
-                     <p class="grey-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reprehenderit maiores nam, aperiam minima assumenda voluptate velit.</p>
+                     <p class="grey-text">Division By Zero offers innovative and flexible payment solutions to meet our customers' budgetary needs and requirements.Alleviate large upfront development costs by paying for solutions based on your development milestones.</p>
                   </div>
                </div>
-               <!--/Third row-->
-            </div>
-            <!--Grid column-->
-         </div>
-         <!--Grid row-->
-         <hr>
-         <!--Grid row-->
-         <div class="row">
-            <!--Grid column-->
-            <div class="col-lg-6 col-xl-7 mb-3">
-               <!--Grid row-->
                <div class="row mb-2">
-                  <!-- <div class="col-1 mr-1">
-                     <i class="fa fa-eye fa-lg text-primary"></i>
-                  </div> -->
+                  <div class="col-10 ">
+                     <h4 class="feature-title indigo-text">Agile Development</h4>
+                     <p class="grey-text">We believe in incorporating iteration and continuous feeback into our development tasks in order to successively refine and deliver your solutions. Our approach to agile methodologies focuses on empowering poeple to collaborate and make effective decisions together quickly. </p>
+                  </div>
+               </div>
+            </div>
+         </div>
+         <hr>
+         <div class="row">
+            <div class="col-lg-6 col-xl-7 mb-3">
+               <div class="row mb-2">
                   <div class="col-10">
                      <h4 class="feature-title indigo-text">RealTime, Scalable Applications On The Latest Technologies</h4>
-                     <p class="grey-text">Each of our solutions are built with the future in mind. </p>
+                     <p class="grey-text">Each of our solutions are built with the future in mind. We use the latest Test Driven Development Methodologies to build solutions which cater for the growth of our customers.</p>
                   </div>
                </div>
-               <!--Grid row-->
-               <!--Grid row-->
                <div class="row mb-2">
-                  <!-- <div class="col-1 mr-1">
-                     <i class="fa fa-heart-o fa-lg text-primary"></i>
-                  </div> -->
                   <div class="col-10">
                      <h4 class="feature-title indigo-text">Techical Specialists Assisting You All The Way</h4>
-                     <p class="grey-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reprehenderit maiores nam, aperiam minima assumenda voluptate velit.</p>
+                     <p class="grey-text">Our team has years of experience in ISP, Telecommuncations and ICT environments. Their accumulated wealth of knowledge allows them to approach any problem in a systematic and logical manner. The team will continously use their expertise to advise you on how best to tackle your solution</p>
                   </div>
                </div>
-               <!--Grid row-->
-               <!--Third row-->
                <div class="row mb-2">
-                  <!-- <div class="col-1 mr-1">
-                     <i class="fa fa-smile-o fa-lg text-primary"></i>
-                  </div> -->
                   <div class="col-10">
                      <h4 class="feature-title indigo-text">Communication</h4>
-                     <p class= "grey-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Reprehenderit maiores nam, aperiam minima assumenda voluptate velit.</p>
+                     <p class= "grey-text">We keep our customers informed through every step of the development life cycle with tools such as Trello and Skype. Customers are able to track the status of their projects and engage with the developers in a simple and effective manner.</p>
                   </div>
                </div>
-               <!--/Third row-->
             </div>
-            <!--Grid column-->
-            <!--Grid column-->
+
             <div class="col-lg-6 col-xl-5 mb-3">
-               <!--Image-->
                <img src="https://mdbootstrap.com/img/Photos/Others/img (30).jpg" alt="Sample project image" class="img-fluid z-depth-2">
             </div>
-            <!--Grid column-->
          </div>
-         <!--Grid row-->
       </div>
    </section>
    <!--End About-->

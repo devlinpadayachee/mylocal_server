@@ -110,6 +110,8 @@ export default {
         data: {name: name, email: email, budget: budget, message: message, _subject: subject, _replyto: email},
         dataType: 'json'
       })
+
+      $('#contactForm')[0].reset()
       // $('#centralModalSuccess').modal({
       //   keyboard: true,
       //   focus: true,

@@ -36,18 +36,18 @@
                       <!--Card content-->
                       <div class="card-block text-center">
                           <!--Title-->
-                          <h4 class="card-title"><strong>Alice Mayer</strong></h4>
+                          <h4 class="card-title"><strong>Devlin Padayachee</strong></h4>
                           <h5 class="indigo-text"><strong>Fullstack Developer, Entrepreneur</strong></h5>
 
-                          <p class="card-text">Sed ut perspiciatis unde omnis iste natus sit voluptatem accusantium doloremque laudantium, totam rem aperiam. </p>
+                          <p class="card-text">An expert in systems architecture, systems integration, web & application development, mobile development and api design. Devlin has experience in web commerce, payment systems, mobile development, MVP quick to market product development, software development processes and innovation incubation. </p>
 
 
                           <!--Linkedin-->
-                          <a class="icons-sm li-ic"><i class="fa fa-linkedin"> </i></a>
+                          <a class="icons-sm li-ic" href = "https://www.linkedin.com/in/devlin-padayachee/"><i class="fa fa-linkedin"> </i></a>
                           <!--Twitter-->
-                          <a class="icons-sm tw-ic"><i class="fa fa-twitter"> </i></a>
+                          <!-- <a class="icons-sm tw-ic" href = ""><i class="fa fa-twitter"> </i></a> -->
                           <!--Dribbble-->
-                          <a class="icons-sm fb-ic"><i class="fa fa-facebook"> </i></a>
+                          <a class="icons-sm fb-ic" href = "https://www.facebook.com/devlin.padayachee.9"><i class="fa fa-facebook"> </i></a>
 
                       </div>
                       <!--/.Card content-->
@@ -74,15 +74,15 @@
                           <h4 class="card-title"><strong>Tshepiso Tsotetsi</strong></h4>
                           <h5 class="indigo-text"><strong>Backend and API Expert</strong></h5>
 
-                          <p class="card-text">Sed ut perspiciatis unde omnis iste natus sit voluptatem accusantium doloremque laudantium, totam rem aperiam. </p>
+                          <p class="card-text">A Perl/Ruby developer with a passion for data manipulation, integration, backend development and scripting. Tshepiso is reliable, dependable and works well individually and as part of a team. He is  a problem-solver at heart and likes to be kept busy and challenged at all times. Tshepiso believes that Software Development is the future !!!</p>
 
 
                           <!--Linkedin-->
-                          <a class="icons-sm li-ic"><i class="fa fa-linkedin"> </i></a>
+                          <a class="icons-sm li-ic" href="https://www.linkedin.com/in/tshepisotsotetsi/"><i class="fa fa-linkedin"> </i></a>
                           <!--Twitter-->
-                          <a class="icons-sm tw-ic"><i class="fa fa-twitter"> </i></a>
+                          <!-- <a class="icons-sm tw-ic"><i class="fa fa-twitter"> </i></a> -->
                           <!--Dribbble-->
-                          <a class="icons-sm fb-ic"><i class="fa fa-facebook"> </i></a>
+                          <a class="icons-sm fb-ic" href ="https://www.facebook.com/tsotetsi.tshepiso"><i class="fa fa-facebook"> </i></a>
 
                       </div>
                       <!--/.Card content-->
