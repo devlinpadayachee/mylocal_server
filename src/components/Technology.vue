@@ -21,7 +21,7 @@
       <div class="row">
         <div class="card-deck">
 
-            <div class="card wow fadeInUp hoverable p-2 mb-1" data-wow-delay="0.5s">
+            <div class="card wow fadeInUpBig hoverable p-2 mb-1" data-wow-delay="0.5s">
             <div class="feature">
               <div class = "technology-card card-block text-center">
                 <i class="devicon-meteor-plain colored"></i>
@@ -33,7 +33,7 @@
             </div>
           </div>
 
-          <div class="card wow fadeInUp hoverable p-2 mb-1" data-wow-delay="0.6s">
+          <div class="card wow fadeInUpBig hoverable p-2 mb-1" data-wow-delay="0.6s">
             <div class="feature">
               <div class = "technology-card card-block text-center">
                 <i class="devicon-vuejs-plain colored"></i>
@@ -45,7 +45,7 @@
             </div>
           </div>
 
-          <div class="card wow fadeInUp hoverable p-2 mb-1" data-wow-delay="0.7s">
+          <div class="card wow fadeInUpBig hoverable p-2 mb-1" data-wow-delay="0.7s">
             <div class="feature">
               <div class = "technology-card card-block text-center">
                 <i class="devicon-git-plain colored"></i>
@@ -57,7 +57,7 @@
             </div>
           </div>
 
-          <div class="card wow fadeInUp hoverable p-2 mb-1" data-wow-delay="0.8s">
+          <div class="card wow fadeInUpBig hoverable p-2 mb-1" data-wow-delay="0.8s">
             <div class="feature">
               <div class = "technology-card card-block text-center">
                 <i class="devicon-nodejs-plain colored"></i>
@@ -74,7 +74,7 @@
       <div class="row">
         <div class="card-deck">
 
-          <div class="card wow fadeInUp hoverable p-2 mb-1" data-wow-delay="1.2s">
+          <div class="card wow fadeInUpBig hoverable p-2 mb-1" data-wow-delay="0.9s">
             <div class="feature">
               <div class = "technology-card card-block text-center">
                 <i class="devicon-mongodb-plain colored"></i>
@@ -86,7 +86,7 @@
             </div>
           </div>
 
-          <div class="card wow fadeInUp hoverable p-2 mb-1" data-wow-delay="1.1s">
+          <div class="card wow fadeInUpBig hoverable p-2 mb-1" data-wow-delay="1s">
             <div class="feature">
               <div class = "technology-card card-block text-center">
                 <i class="devicon-ruby-plain colored"></i>
@@ -98,7 +98,7 @@
             </div>
           </div>
 
-          <div class="card wow fadeInUp hoverable p-2 mb-1" data-wow-delay="1s">
+          <div class="card wow fadeInUpBig hoverable p-2 mb-1" data-wow-delay="1.1s">
             <div class="feature">
               <div class = "technology-card card-block text-center">
                 <i class="devicon-php-plain colored"></i>
@@ -110,7 +110,7 @@
             </div>
           </div>
 
-          <div class="card wow fadeInUp hoverable p-2 mb-1" data-wow-delay="0.9s">
+          <div class="card wow fadeInUpBig hoverable p-2 mb-1" data-wow-delay="1.2s">
             <div class="feature">
               <div class = "technology-card card-block text-center">
                 <i class="devicon-jquery-plain colored"></i>
@@ -127,7 +127,7 @@
       <div class="row">
         <div class="card-deck">
 
-          <div class="card wow fadeInUp hoverable p-2 mb-1" data-wow-delay="1.2s">
+          <div class="card wow fadeInUpBig hoverable p-2 mb-1" data-wow-delay="1.3s">
             <div class="feature">
               <div class = "technology-card card-block text-center">
                 <i class="devicon-mysql-plain colored"></i>
@@ -139,7 +139,7 @@
             </div>
           </div>
 
-          <div class="card wow fadeInUp hoverable p-2 mb-1" data-wow-delay="1.1s">
+          <div class="card wow fadeInUpBig hoverable p-2 mb-1" data-wow-delay="1.4s">
             <div class="feature">
               <div class = "technology-card card-block text-center">
                 <i class="devicon-bootstrap-plain colored"></i>
@@ -151,7 +151,7 @@
             </div>
           </div>
 
-          <div class="card wow fadeInUp hoverable p-2 mb-1" data-wow-delay="1s">
+          <div class="card wow fadeInUpBig hoverable p-2 mb-1" data-wow-delay="1.5s">
             <div class="feature">
               <div class = "technology-card card-block text-center">
                 <i class="devicon-html5-plain"></i>
@@ -163,7 +163,7 @@
             </div>
           </div>
 
-          <div class="card wow fadeInUp hoverable p-2 mb-1" data-wow-delay="0.9s">
+          <div class="card wow fadeInUpBig hoverable p-2 mb-1" data-wow-delay="1.6s">
             <div class="feature">
               <div class = "technology-card card-block text-center">
                 <i class="devicon-angularjs-plain colored"></i>

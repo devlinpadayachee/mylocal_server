@@ -71,9 +71,9 @@ body,
 .active {
     color:#eb3573!important;
 }
-.navbar {
+/*.navbar {
     background-color: transparent;
-}
+}*/
 
 .navbar .container{
 margin-left: 0;
@@ -86,6 +86,7 @@ margin-left: 0;
 }
 
 .top-nav-collapse {
+    opacity : 0.9;
     background-color: #1C2331;
 }
 
@@ -126,14 +127,14 @@ h2 {
     letter-spacing: 2px;
 }
 
-@media (max-width: 740px) {
+/*@media (max-width: 740px) {
     .full-height,
     .full-height body,
     .full-height header,
     .full-height header .view {
         height: 700px;
     }
-}
+}*/
 
 /* Carousel*/
 
@@ -266,6 +267,12 @@ div .error{
 
   margin-left: 50px;
   color : firebrick;
+}
+
+.btn.disabled, .btn:disabled {
+    cursor: not-allowed;
+    opacity: .65;
+    color: #fff!important;
 }
 
 .md-form .prefix {

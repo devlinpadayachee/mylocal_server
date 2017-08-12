@@ -3,11 +3,44 @@
     <!--Navbar-->
     <nav class="navbar navbar-toggleable-md navbar-dark fixed-top scrolling-navbar">
         <div class="container">
-            <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarNav1" aria-controls="navbarNav1" aria-expanded="false" aria-label="Toggle navigation">
+            <button style ="padding-top:15px;"  class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarNav1" aria-controls="navbarNav1" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
             </button>
-              <a class="navbar-brand page-scroll" href="#home">  <img class="navbar-brand flex-center" src="./assets/img/logo.png" alt="logo"></a>
-              <div class="collapse navbar-collapse" id="body-scroller" >
+            <a class="navbar-brand" href="#home">
+                <img class="d-inline-block align-top"  height="50" src="./assets/img/logo.png" alt="logo">
+            </a>
+            <div class="collapse navbar-collapse" id="navbarNav1">
+                <ul class="navbar-nav mr-auto smooth-scroll" style ="padding-top:7px;">
+                    <li class="nav-item">
+                        <a class="nav-link active" href="#home"><h3>Home</h3> <span class="sr-only">(current)</span></a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#about" ><h3>About</h3></a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#services" ><h3>Our Services</h3></a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#technology" ><h3>Technology</h3></a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#team" ><h3>Team</h3></a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#contact-us" ><h3>Contact Us</h3></a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+         <!--
+    <nav class="navbar navbar-expand-lg navbar-dark fixed-top">
+            <a class="navbar-brand" href="#home">  <img class="d-inline-block align-top"  height="30" src="./assets/img/logo.png" alt="logo"></a>
+            <button style ="padding-top:20px;" class=" navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar1" aria-controls="navbar1" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon" ></span>
+            </button>
+
+              <div class="collapse navbar-collapse" id="navbar1" >
                 <ul class="navbar-nav mr-auto smooth-scroll" style ="padding-top:7px;"  role="navigation">
                     <li class="nav-item">
                       <a class="nav-link active" href="#home"><h3>Home</h3> <span class="sr-only">(current)</span></a>
@@ -28,12 +61,8 @@
                         <a class="nav-link" href="#contact-us" ><h3>Contact Us</h3></a>
                     </li>
                 </ul>
-                <!-- <form class="form-inline waves-effect waves-light">
-                    <input class="form-control" type="text" placeholder="Search">
-                </form> -->
             </div>
-        </div>
-    </nav>
+    </nav> -->
 
     <!--/.Navbar-->
     <!--Carousel Wrapper-->
@@ -100,7 +129,7 @@
     <!--Navigation links with a Smooth SCroll effect-->
 
 
-    <div class="streak flex-center">
+    <div class="streak flex-center py-3" style ="height:auto;">
       <div class="row">
         <div class="col-md-12 text-center">
           <h3 class="wow fadeIn" data-wow-delay="0.3s"><i class="fa fa-quote-left" aria-hidden="true"></i> Because the people who are crazy enough to think they can change the world, are the ones who do. <i class="fa fa-quote-right" aria-hidden="true"></i></h3>
@@ -117,7 +146,7 @@
         <about class="col-sm-12 col-md-9 col-lg-9 mx-auto float-none" id="about"></about>
     </div>
 
-    <div class="streak flex-center negsection">
+    <div class="streak flex-center negsection py-3" style ="height:auto;">
       <div class="row container text-center">
         <div class="col-lg-3 col-sm-3 ">
            <div class="circle circle3 ">

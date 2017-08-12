@@ -5,7 +5,8 @@ $(document).ready(function () {
     // errorLabelContainer: '.errorTxt'
   })
   $('#contactFormbutton').prop('disabled', 'disabled')
-  $('#contactForm input').on('keyup blur', function () { // fires on every keyup & blur
+  $('#contactForm input,textarea').on('keyup blur', function () { // fires on every keyup & blur
+    console.log('validating form')
     if ($('#contactForm').valid()) {                   // checks form for validity
       $('#contactFormbutton').prop('disabled', false)        // enables button
     } else {
@@ -21,7 +22,7 @@ $(document).ready(function () {
   $('.smooth-scroll').on('click', 'a', function (event) {
     event.preventDefault()
     var elAttr = $(this).attr('href')
-    var offset = ($(this).data('offset') ? $(this).data('offset') : -80)
+    var offset = ($(this).data('offset') ? $(this).data('offset') : -75)
     $('body,html').animate({
       scrollTop: $(elAttr).offset().top + offset
     }, 700)
