@@ -11,7 +11,7 @@
       <div class="container-fluid center-text">
          <div class="row justify-content-md-center mt-3">
             <p class="section-description">
-               Division By Zero is a boutique development company which specializes in creating custom software for small to medium sized businesses and startups. Our focus is on creating lean, affordable solutions which help your business grow.
+               Division By Zero is a boutique software development company which specializes in creating custom software for small to medium sized businesses and startups. Our focus is on creating lean, affordable solutions which help your business grow.
             </p>
           </hr>
          </div>

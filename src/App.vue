@@ -95,7 +95,7 @@
                         <ul class="smooth-scroll">
                             <li>
                                 <h1 class="h1-responsive font-weight-bold ">Division By Zero</h1></li>
-                                <h2 class = "text-primary ">Custom Software Development for your Startup or Business</h2>
+                                <h1 class = "text-primary ">Custom Software Development for your Startup or Business</h1>
                             <li>
                                 <small class = "text-default text-muted ">Web Apps, Scripts, APIs and Backend Software</small>
                             </li>
