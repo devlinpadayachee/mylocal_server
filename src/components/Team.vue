@@ -61,7 +61,7 @@
 
                       <!--Card image-->
                       <div class="view">
-                          <img src="http://res.cloudinary.com/digitalgraft-co-za/image/upload/c_scale,e_grayscale,h_400,w_400/v1501201150/T_uxvoj3.jpg" class="img-fluid">
+                          <img src="http://res.cloudinary.com/digitalgraft-co-za/image/upload/c_scale,e_grayscale,h_400,w_400/v1502569567/T2.jpg" class="img-fluid">
                           <a href="#!">
                               <div class="mask"></div>
                           </a>
