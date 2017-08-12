@@ -22,7 +22,7 @@
                      <i class="fa fa-circle-o-notch   pink-text"></i>
                   </div>
                   <div class="col-10">
-                     <h4 class="feature-title indigo-text">Web Applications and Sites</h4>
+                     <h4 class="feature-title text-primary">Web Applications and Sites</h4>
                      <p class="grey-text">Need a custom application to solve a business problem, we have you covered. We create secure bespoke software adapted to your internal business processes and specifications, or give us a call to help you setup your business website.</p>
                   </div>
                </div>
@@ -31,7 +31,7 @@
                      <i class="fa  fa-circle-o-notch  pink-text"></i>
                   </div>
                   <div class="col-10">
-                     <h4 class="feature-title indigo-text">Scripts and Automation</h4>
+                     <h4 class="feature-title text-primary">Scripts and Automation</h4>
                      <p class="grey-text">Let us automate those manual repetitive tasks which you perform on a daily basis. Tasks such as reporting and calculations should never be done manually, your time is precious. </p>
                   </div>
                </div>
@@ -40,7 +40,7 @@
                      <i class="fa fa-circle-o-notch  pink-text"></i>
                   </div>
                   <div class="col-10">
-                     <h4 class="feature-title indigo-text">APIs</h4>
+                     <h4 class="feature-title text-primary">APIs</h4>
                      <p class="grey-text">Have us create an API which gives you access to your stored database information via a rest interface. Use the API to feed data to your other sytstems. Have us automate your reporting and processes using the API.</p>
                   </div>
                </div>
@@ -54,7 +54,7 @@
                      <i class="fa fa-circle-o-notch  pink-text"></i>
                   </div>
                   <div class="col-10">
-                     <h4 class="feature-title indigo-text">Backend Dev and Software Rescue</h4>
+                     <h4 class="feature-title text-primary">Backend Dev and Software Rescue</h4>
                      <p class="grey-text">Do you have legacy software that needs an update or bug fixes. Let us fix the bugs or modernize your existing software into a cloud solution which scales accordingly.</p>
                   </div>
                </div>
@@ -63,7 +63,7 @@
                      <i class="fa fa-circle-o-notch  pink-text"></i>
                   </div>
                   <div class="col-10">
-                     <h4 class="feature-title indigo-text">Mobile Apps</h4>
+                     <h4 class="feature-title text-primary">Mobile Apps</h4>
                      <p class="grey-text">Get started with your business's mobile application. Harness technologies such as geo-location and push-notifications to drive bespoke processes and efficiencies in your business.</p>
                   </div>
                </div>
@@ -72,7 +72,7 @@
                      <i class="fa fa-circle-o-notch pink-text "></i>
                   </div>
                   <div class="col-10">
-                     <h4 class="feature-title indigo-text">Integration and Product Development</h4>
+                     <h4 class="feature-title text-primary">Integration and Product Development</h4>
                      <p class="grey-text">Need to integrate into a 3rd party provider or end point. We are experts in connecting systems and software. Our team are not only coders but experts with years of product development experience. </p>
                   </div>
                </div>

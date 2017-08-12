@@ -37,7 +37,7 @@
                       <div class="card-block text-center">
                           <!--Title-->
                           <h4 class="card-title"><strong>Devlin Padayachee</strong></h4>
-                          <h5 class="indigo-text"><strong>Fullstack Developer, Entrepreneur</strong></h5>
+                          <h5 class="text-primary"><strong>Fullstack Developer, Entrepreneur</strong></h5>
 
                           <p class="card-text">An expert in systems architecture, systems integration, web & application development, mobile development and api design. Devlin has experience in web commerce, payment systems, mobile development, MVP quick to market product development, software development processes and innovation incubation. </p>
 
@@ -72,7 +72,7 @@
                       <div class="card-block text-center">
                           <!--Title-->
                           <h4 class="card-title"><strong>Tshepiso Tsotetsi</strong></h4>
-                          <h5 class="indigo-text"><strong>Backend and API Expert</strong></h5>
+                          <h5 class="text-primary"><strong>Backend and API Expert</strong></h5>
 
                           <p class="card-text">A Perl/Ruby developer with a passion for data manipulation, integration, backend development and scripting. Tshepiso is reliable, dependable and works well individually and as part of a team. He is  a problem-solver at heart and likes to be kept busy and challenged at all times. Tshepiso believes that Software Development is the future !!!</p>
 
