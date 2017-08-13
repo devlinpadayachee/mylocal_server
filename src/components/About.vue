@@ -20,7 +20,7 @@
             <!--Grid column-->
             <div class="col-lg-6 col-xl-5 pr-lg-5 pb-5">
                <!--Image-->
-               <img src="https://mdbootstrap.com/img/Photos/Horizontal/Work/4-col/img%20%2821%29.jpg" alt="Sample project image" class="img-fluid z-depth-2">
+               <img src="https://mdbootstrap.com/img/Photos/Horizontal/Work/4-col/img%20%2821%29.jpg" alt="development pc, software" class="img-fluid z-depth-2">
             </div>
             <div class="col-lg-6 col-xl-7 pl-lg-5 pb-4">
                <div class="row mb-2">
@@ -67,7 +67,7 @@
             </div>
 
             <div class="col-lg-6 col-xl-5 mb-3">
-               <img src="https://mdbootstrap.com/img/Photos/Others/img (30).jpg" alt="Sample project image" class="img-fluid z-depth-2">
+               <img src="https://mdbootstrap.com/img/Photos/Others/img (30).jpg" alt="customer software development" class="img-fluid z-depth-2">
             </div>
          </div>
       </div>

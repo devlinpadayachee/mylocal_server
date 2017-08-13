@@ -8,6 +8,7 @@
   "postinstall": "npm install express"
  },
  "dependencies": {
+  "compression": "^1.7.0",
   "nodemailer": "^4.0.1"
  }
 }
