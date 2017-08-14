@@ -26,7 +26,7 @@
 
                       <!--Card image-->
                       <div class="view">
-                          <img src="http://res.cloudinary.com/digitalgraft-co-za/image/upload/c_scale,e_grayscale,h_400,w_400/v1501800050/AlexanderSmith-K_D-176_vgtpzi.jpg" alt="Developer Devlin" class="img-fluid">
+                          <img src="https://res.cloudinary.com/digitalgraft-co-za/image/upload/c_scale,e_grayscale,h_400,w_400/v1501800050/AlexanderSmith-K_D-176_vgtpzi.jpg" alt="Developer Devlin" class="img-fluid">
                           <a href="#!">
                               <div class="mask"></div>
                           </a>
@@ -61,7 +61,7 @@
 
                       <!--Card image-->
                       <div class="view">
-                          <img src="http://res.cloudinary.com/digitalgraft-co-za/image/upload/c_scale,e_grayscale,h_400,w_400/v1502573072/T2.jpg" alt="Developer Tshepiso" class="img-fluid">
+                          <img src="https://res.cloudinary.com/digitalgraft-co-za/image/upload/c_scale,e_grayscale,h_400,w_400/v1502573072/T2.jpg" alt="Developer Tshepiso" class="img-fluid">
                           <a href="#!">
                               <div class="mask"></div>
                           </a>
