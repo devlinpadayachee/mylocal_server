@@ -73,7 +73,7 @@
                   </div>
                   <div class="col-10">
                      <h4 class="feature-title text-primary">Integration and Product Development</h4>
-                     <p class="grey-text">Need to integrate into a 3rd party provider or end point. We are experts in connecting systems and software. Our team are not only coders but experts with years of product development experience. </p>
+                     <p class="grey-text">Need to integrate into a 3rd party provider or end point? We are experts in connecting systems and software. Our team are not only coders but also have years of product development and product integration experience. </p>
                   </div>
                </div>
             </div>
