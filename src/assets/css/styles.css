@@ -23,10 +23,30 @@ body,
 
 }
 
-.carousel-caption {
+
+/*@include media-breakpoint-up(sm) {
+  html {
+    font-size: 16px;
+  }
+}
+
+@include media-breakpoint-up(md) {
+  html {
+    font-size: 20px;
+  }
+}
+
+@include media-breakpoint-up(lg) {
+  html {
+    font-size: 28px;
+  }
+}*/
+
+
+/*.carousel-caption {
 
   font-size : 2.0em;
-}
+}*/
 .section h1{
   color: #444444!important;
   font-size : 3.8em;

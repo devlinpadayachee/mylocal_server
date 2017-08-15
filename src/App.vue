@@ -80,26 +80,28 @@
             <!--First slide-->
             <div class="carousel-item active">
                 <!--Mask color-->
-                <div class="view hm-black-light">
+                <div class="view mask pattern-5">
 
                     <!--Video source-->
                     <video autoplay="" loop="" class="video-full" data-wow-delay="1s" id="video-background" >
                         <source src="/static/backdropvid.mp4" type="video/mp4">Your browser does not support the video tag. I suggest you upgrade your browser.
                     </video>
-                    <div class="full-bg-img"></div>
                 </div>
 
                 <!--Caption-->
                 <div class="carousel-caption">
-                    <div class="flex-center wow animated fadeInDown" data-wow-delay="0.5s">
+                    <div class="flex-center wow animated fadeInDown" data-wow-delay="1s">
                         <ul class="smooth-scroll">
                             <li>
-                                <h1 class="h1-responsive font-weight-bold ">Division By Zero</h1></li>
-                                <h1 class = "text-primary ">Custom Software Development for your Startup or Business</h1>
-                            <li>
-                                <small class = "text-default text-muted ">Web Apps, Scripts, APIs and Backend Software</small>
+                                <h1 class="display-2 ">Division By Zero</h1>
                             </li>
                             <li>
+                                <h1 class ="h1-responsive text-primary ">Custom Software Development for your Startup or Business</h1>
+                            </li>
+                            <li>
+                                <h3 class = "h3-responsive text-default text-muted">Web Apps, Scripts, APIs, Mobile and Backend Software</h3>
+                            </li>
+                            <li >
                                 <a target="_blank" href="#contact-us" class="btn btn-primary btn-lg" rel="nofollow">GET A QUOTE</a>
                                 <a target="_blank" href="#services" class="btn btn-pink btn-lg" rel="nofollow">LEARN MORE</a>
                             </li>
@@ -201,7 +203,7 @@
     <team class="col-sm-12 col-md-9 col-lg-9 mx-auto float-none"  id="team"></team>
 
     <!--Footer-->
-    <footer class="page-footer center-on-small-only">
+    <footer class="page-footer">
         <contact-us class="col-sm-12 col-md-9 col-lg-9 mx-auto float-none"  id="contact-us"></contact-us>
         <!--Call to action-->
         <!-- <div class="call-to-action">
@@ -218,7 +220,7 @@
         <!--Copyright-->
         <div class="footer-copyright">
             <div class="container-fluid">
-                © 2017 Copyright: <a href="http://divisionbyzero.co.za"> divisionbyzero.co.za </a>
+                © 2017 Copyright: <a href="https://divisionbyzero.co.za"> divisionbyzero.co.za </a>
 
             </div>
         </div>

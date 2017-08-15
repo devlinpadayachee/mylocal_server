@@ -11,7 +11,7 @@
     <div class="container-fluid">
       <div class="row justify-content-md-center ">
         <p class="section-description">Give us a shout, get an estimate on the time, effort and cost of your project and get started today.</p>
-              <div class="col-lg-6">
+              <div class="col-lg-6 col-sm-12">
                 <!-- Contact form -->
                   <form v-on:submit.prevent="onSubmit" id="contactForm">
                       <input type="text" name="_gotcha" style="display:none" />
@@ -54,7 +54,7 @@
                   </form>
                   <!-- Contact form -->
               </div>
-              <div class="col-lg-6">
+              <div class="col-lg-6 col-sm-12">
 
                          <ul class="contact-icons mt-2">
                              <li><i class="fa fa-map-marker"></i>
