@@ -14,7 +14,6 @@ http://www.bootstrapzero.com
 
 html,
 body,
-#fullcontainer,
 #app,
 .view {
     height: 100%;
@@ -22,11 +21,6 @@ body,
     color: #222;
     position: relative;
 
-}
-
-td .btn {
-  margin : 0!important;
-  vertical-align: top!important;
 }
 
 
@@ -93,58 +87,18 @@ td .btn {
    background: #A8A7A8;
 }
 
-label {
-    color:#0275d8!important;
-    font-size: .8rem;
-}
-
 /* Navigation*/
-/*.active {
+.active {
     color:#eb3573!important;
-}*/
+}
 /*.navbar {
     background-color: transparent;
 }*/
-/*select {
-    height : 2.1rem!important;
-  -webkit-appearance: menulist;
-    box-sizing: border-box;
-    align-items: center;
-    white-space: pre;
-    -webkit-rtl-ordering: logical;
-    color: black;
-    background-color: white;
-    cursor: default;
-    border-width: 1px;
-    border-style: solid;
-    border-color: initial;
-    border-image: initial;
-}*/
-/*.form-control {
-  font-size: .8rem!important;
-  padding: 5px 10px 5px 15px!important;
-  border-top-left-radius: 10px!important;
-  //width: 100%;
-//  height: 22px!important;
-  //padding: 6px 12px;
-  //font-size: 16px;
-  font-weight: 600;
-  //line-height: 1.428571429;
-  color: #6b6b6b;
-  //background-color: #ebebeb;
-  border: 1px solid #e1e1e1!important;
-  border-radius: 0;
-  -webkit-transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s;
-//  transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s;
 
-}*/
-.responsive {
-  overflow-x: hidden!important;
-}
-/*.navbar .container{
+.navbar .container{
 margin-left: 0;
 
-}*/
+}
 .scrolling-navbar {
     -webkit-transition: background .5s ease-in-out, padding .5s ease-in-out;
     -moz-transition: background .5s ease-in-out, padding .5s ease-in-out;
@@ -168,8 +122,20 @@ margin-left: 0;
   background-color: #2BBBAD;
 }
 
+.contact-us p,.contact-us h1.text-primary{
+    background-color: #1C2331;
+    color : #fff!important;
+}
 
+/*.modal p{
+    background-color: #fff;
+    color : #414141!important;
+}*/
 
+footer.page-footer {
+    background-color: #1C2331;
+    margin-top: 0;
+}
 
 @media only screen and (max-width: 768px) {
     .navbar {
@@ -290,8 +256,38 @@ compiled.min.css?ver=4.3.2:1
   width :100%;
 }
 
+.streak {
+    background: #4285F4;
+    height: 175px;
+    color: #fff!important;
+}
 
 
+/*.streak.negsection{
+    background: #e91e63;
+    height: 175px;
+    color: #fff!important;
+}*/
+
+.streak h2,h5,.modal h2{
+
+    color: #fff!important;
+}
+
+.md-form textarea, input{
+  color : #fff!important;
+}
+
+/*.errorTxt{
+  border: 1px solid red;
+  min-height: 20px;
+}*/
+
+div .error{
+
+  margin-left: 50px;
+  color : firebrick;
+}
 
 .btn.disabled, .btn:disabled {
     cursor: not-allowed;
@@ -299,8 +295,53 @@ compiled.min.css?ver=4.3.2:1
     color: #fff!important;
 }
 
+.md-form .prefix {
+  color : #444444;
+}
 
+.fixed-action-btn {
+    position: fixed;
+    right: 23px;
+    bottom: 23px;
+    padding-top: 15px;
+    margin-bottom: 0;
+    z-index: 998;
+}
 
+.btn-floating.btn-large i {
+    line-height: 55.5px;
+}
+
+.btn-floating i {
+    width: inherit;
+    display: inline-block;
+    text-align: center;
+    color: #fff;
+    font-size: 1.6rem;
+    line-height: 37px;
+}
+
+.btn-floating.btn-large {
+    width: 55.5px;
+    height: 55.5px;
+}
+
+.btn-floating {
+    display: inline-block;
+    color: #fff;
+    position: relative;
+    overflow: hidden;
+    z-index: 1;
+    width: 37px;
+    height: 37px;
+    line-height: 37px;
+    padding: 0;
+    background-color: #a6c;
+    border-radius: 50%;
+    transition: .3s;
+    vertical-align: middle;
+    margin: 10px;
+}
 
 .icons-sm, .fa-lg{
     padding: .5rem;
