@@ -1,45 +1,29 @@
 <template>
   <section class="container my-2">
 
-    <nav class="navbar navbar-light bg-faded">
-      <span class="navbar-brand mb-0 h1">Suppliers</span>
-      <span class="nav-item dropdown float-right">
-        <a class="nav-link dropdown-toggle " href="http://example.com" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true"
-        aria-expanded="false">
-        Navigation
-      </a>
-      <div class="dropdown-menu " aria-labelledby="navbarDropdownMenuLink">
-        <router-link class="nav-link" to="/products">Products</router-link>
-        <router-link class="nav-link" to="/orders">Orders</router-link>
-      </div>
-    </span>
-    </nav>
+  <!--Navbar-->
+  <nav class="navbar navbar-toggleable-md scrolling-navbar bg-faded">
+      <button  class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarNav1" aria-controls="navbarNav1" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div   class="collapse navbar-collapse" id="navbarNav1">
+        <ul class="navbar-nav mr-auto smooth-scroll">
 
-    <!--Navbar-->
-    <nav class="navbar navbar-toggleable-md scrolling-navbar bg-faded">
-      <div class="container">
-        <button  class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarNav1" aria-controls="navbarNav1" aria-expanded="false" aria-label="Toggle navigation">
-          <span class="navbar-toggler-icon"></span>
-        </button>
-        <div   class="collapse navbar-collapse" id="navbarNav1">
-          <ul class="navbar-nav mr-auto smooth-scroll">
+          <li class="nav-item">
+            <span class="navbar-brand mb-0 h1">Suppliers</span>
+          </li>
 
-            <li class="nav-item">
-              <h4 class="nav-link">Supplier Management </h4>
-            </li>
-
-          </ul>
-          <h4 class="nav-item dropdown float-right">
-            <a class="nav-link dropdown-toggle " href="http://example.com" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true"
-            aria-expanded="false">
-            Navigation
+        </ul>
+        <span class="nav-item dropdown float-right">
+          <a class="nav-link dropdown-toggle" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true"
+          aria-expanded="false">
+          Navigation
           </a>
           <div class="dropdown-menu " aria-labelledby="navbarDropdownMenuLink">
             <router-link class="nav-link" to="/products">Products</router-link>
             <router-link class="nav-link" to="/orders">Orders</router-link>
           </div>
-        </h4>
-      </div>
+        </span>
     </div>
   </nav>
   <!--/.Navbar-->
@@ -68,7 +52,7 @@
     <form v-on:submit.prevent="addSupplier">
       <div class="form-group">
         <label for="supplierName">Supplier name</label>
-        <input v-model="supplierName" v-validate="'required|min:3'" data-vv-as="Supplier name"  type="text" class="form-control" id="supplierName" name="supplierName" aria-describedby="supplierNameHelp" placeholder="Enter Supplier name">
+        <input v-model="supplierName" v-validate="'required|min:3'" data-vv-as="Supplier name"  type="text" class="form-control" id="supplierName" name="supplierName" aria-describedby="supplierNameHelp" placeholder="Enter supplier name">
         <small id="supplierNameHelp" class="form-text text-muted">Supplier name is used to identify the supplier to the customers</small>
         <i v-show="errors.has('supplierName')" class="fa fa-warning"></i>
         <span v-show="errors.has('supplierName')" class="help text-danger">{{ errors.first('supplierName') }}</span>

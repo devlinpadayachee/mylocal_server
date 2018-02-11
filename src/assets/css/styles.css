@@ -29,7 +29,14 @@ td .btn {
   vertical-align: top!important;
 }
 
-
+.form-group {
+  margin-bottom: 10px;
+  background-color: #f7f7f7;
+  padding: 15px;
+}
+.form-group label {
+  font-size: 22px;
+}
 /*@include media-breakpoint-up(sm) {
   html {
     font-size: 16px;
